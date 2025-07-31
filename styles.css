@@ -1,0 +1,1229 @@
+.main{
+    background-image: url(../images/MainImage.jpg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-attachment: fixed;
+    background-size: cover;
+    margin: auto;
+    color: white
+}
+.navbar{
+    z-index: 1000; /* Ensures it stays above other elements */
+}
+.navbar ul{
+    list-style-type: none;
+    background-color: Linear-gradient(rgb(0, 0, 0.5));
+    margin: 0px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+    font-size: 15px;
+    position: relative;
+    bottom: 20px;
+    right: 20px;
+    
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+    transition: color 0.3s ease, background-color 0.3s ease;
+    
+}
+.navbar a:hover{
+    transition: background-color 0.5s ease;
+    text-decoration: none;
+    background-color: black;
+    color: white;
+}
+.navbar li{
+    float: right;
+}
+.navbar a.active {
+    color: white;
+}
+.navbar a[style*="pointer-events: none"] {
+    color: gray;
+    cursor: not-allowed;
+}
+.intro{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 65px;
+    font-style: oblique;
+    text-decoration: none;
+    text-align: center; /* Center text horizontally */
+    color:white;
+    /* Flexbox settings */
+    display: flex;
+    justify-content: center; /* Center content horizontally */
+    align-items: center;     /* Center content vertically */
+    
+    /* Ensure the container has a height */
+    height: 120vh; /* Full viewport height or set a specific height */
+    margin: auto;     /* Remove default margins */
+
+}
+.btn {
+    background-color: #28a745;
+    color: white;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    position: absolute; /* Keep fixed positioning */
+    text-decoration: none;
+    display: inline-block;
+    left: 50%; /* Center horizontally */
+    transform: translateX(-50%); /* Horizontally center relative to the viewport */
+    bottom: 100px; /* Distance from the bottom */
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    
+    
+}
+
+.btn:hover {
+    background-color: #218838;
+    transform: translate(-50%, -3px) scale(1.05);
+    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.15); /* Increases shadow on hover */
+}
+.content {
+    display: flex;
+    justify-content: flex-end; /* Align the text to the right */
+    align-items: center; /* Center text vertically */
+    height: 100%;
+    padding-right: 20px; /* Add space from the edge */
+    padding-top: 50px; /* Add space from the top */
+}
+
+.text {
+    max-width: 1000px; /* Control the width of the text container */
+    padding: 60px;
+    margin-top: 100px;
+    margin-left: -20px;
+    margin-right: 50px;
+    background: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+    border-radius: 8px;
+    text-align: justify;
+}
+.text ul {
+    list-style-type: none;  /* Removes bullet points */
+    width: 100%;  /* Makes the paragraph 75% of its container width */
+    padding: 0;  /* Adds padding inside the paragraph */
+    margin: 0;
+}
+.Text2 {
+    text-align: center;
+    color:white
+}
+.Text3{
+    color: white
+}
+.funFacts
+{
+    max-width: 1000px; /* Control the width of the text container */
+    margin-left: -20px;
+    margin-top: 69px;
+    color:#000;
+    margin-right: -30px;
+    text-align: justify;
+}
+.head{
+    background-image: url(../images/Sodha.jpg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-attachment: fixed;
+    background-size: cover;
+    margin: auto;
+    color: white
+}
+body {
+    font-family: Arial, sans-serif;
+    margin-bottom: -500px;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.container {
+    margin-top: 200px;
+    max-width: 2000px;
+    padding: 20px;
+    background: url('your-background-image.jpg') no-repeat center center/cover;
+    display: flex;
+    align-items: center; /* Center content vertically */
+    justify-content: center; /* Center content horizontally */
+    flex-direction: column; /* Stack content vertically */
+    height: 120vh; /* Ensure the container takes up the full viewport height */
+    box-sizing: border-box; /* Include padding in height calculation */
+}
+
+.mission {
+    text-align: center;
+    color: black;
+    z-index: 0;
+    height: 400px;
+    margin-top: -20px;
+}
+
+.mission-text {
+    background: white;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    color: black;
+    width: 1400px;
+    max-width: 3000px;
+    text-decoration: none;
+    text-align: left;
+    margin-top: 50px;
+}
+.cta {
+    display: flex;
+    justify-content: center; /* Center the button horizontally */
+    width: 100%;
+}
+.cta a {
+    margin-top: 50px;
+    background: #28a745;
+    color: white;
+    padding: 10px 15px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 16px;
+    transition: background-color 0.3s;
+    display: inline-block;
+    text-align: center;
+}
+
+.cta a:hover {
+    background: #218838;
+}
+
+.footer {
+    text-align: center;
+    margin-top: 200px;
+    font-weight: bold;
+    padding: 10px 0;
+    background: #333;
+    position: relative;
+    color: white;
+    bottom: 0;
+    width: 100%;
+}
+.mission-image {
+    max-width: 95%; /* Ensure the image does not exceed its container */
+    height: auto; /* Maintain aspect ratio */
+    display: block; /* Removes inline spacing issues */
+    margin: 0 auto 0px; /* Centers the image and adds spacing below it */
+    border-radius: 8px; /* Optional: Add rounded corners */
+    margin-top: 50px;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.page-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
+
+.page-header {
+    background-color: #004d7a;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    width: 100%;
+}
+
+.page-header h1 {
+    font-size: 2.5em;
+}
+
+.page-header p {
+    font-size: 1.2em;
+    margin-top: 10px;
+}
+
+.links-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 20px;
+    padding: 20px;
+    max-width: 1200px; /* Optional, set max width for large screens */
+    width: 100%;
+    margin: 0 auto; /* Center the grid horizontally */
+}
+
+.link-card {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.link-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.link-card h2 {
+    font-size: 1.8em;
+    color: #004d7a;
+}
+
+.link-card p {
+    font-size: 1em;
+    margin: 10px 0;
+}
+
+.link-card a {
+    font-size: 1.1em;
+    color: #0077b6;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.link-card a:hover {
+    text-decoration: underline;
+}
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    line-height: 1.6;
+}
+
+.header {
+    background: linear-gradient(90deg, #0073e6, #005bb5);
+    color: white;
+    padding: 1.5rem 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.header h1 {
+    margin: 0;
+    font-weight: 600;
+    font-size: 1.8rem;
+}
+
+.header nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.header nav ul li {
+    margin: 0 1rem;
+}
+
+.header nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.3s ease;
+}
+
+.header nav ul li a.active, .header nav ul li a:hover {
+    color: #ffcc00;
+}
+
+.main-content {
+    padding: 3rem 2rem;
+    background: #f9f9f9;
+    min-height: calc(100vh - 160px);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 100px;
+    text-decoration: none;
+    justify-content: center;
+}
+
+.donation-options {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    text-decoration: none;
+    flex-wrap: wrap;
+    margin-bottom: 2rem;
+    width: 100%;
+    max-width: 1200px;
+}
+
+.option {
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    margin-top: 100px;
+    padding: 2rem;
+    height: 300px;
+    flex: 1 1 calc(45% - 2rem);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    position: relative;
+    overflow: hidden;
+    text-decoration: none;
+    max-width: 400px;
+}
+
+.option:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
+    text-decoration: none;
+}
+
+.option h4 {
+    font-size: 1.5rem;
+    color: #0073e6;
+    margin-bottom: 20px;
+    transition: color 0.3s ease;
+    text-decoration: none;
+}
+
+.option:hover h4 {
+    color: #005bb5;
+    text-decoration: none;
+}
+
+.option p {
+    font-size: 1rem;
+    color: #666;
+    text-decoration: none;
+    margin-bottom: 1.5rem;
+    transition: opacity 0.3s ease;
+}
+
+.option:hover p {
+    opacity: 1;
+    text-decoration: none;
+}
+
+.btn2 {
+    display: inline-block;
+    background: #0073e6;
+    color: white;
+    padding: 0.75rem 1.5rem;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: 500;
+    transition: background 0.3s ease;
+    position: absolute;
+    bottom: -0.5rem;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-bottom: 50px;
+    z-index: 1;
+}
+
+.btn2:hover {
+    background: #005bb5;
+    text-decoration: none;
+}
+
+.contact {
+    margin-top: auto;
+    font-size: 1rem;
+    color: #555;
+}
+
+.contact a {
+    color: #0073e6;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.contact a:hover {
+    text-decoration: underline;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f9f9f9;
+}
+
+header {
+    background-color: #4CAF50;
+    color: #fff;
+    padding: 1em 0;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5em;
+}
+
+header p {
+    font-size: 1.2em;
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 2em;
+}
+
+/* Contact Form Styles */
+.contact-form {
+    flex: 1 1 45%;
+    background: #fff;
+    color: #000;
+    padding: 1.5em;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    margin-bottom: 1.5em;
+    margin-top: 180px;
+    width: 700px;
+}
+
+.contact-form h2 {
+    margin-bottom: 1em;
+    color: #4CAF50;
+}
+
+.contact-form label {
+    display: block;
+    margin-bottom: 0.5em;
+    font-weight: bold;
+}
+
+.contact-form input,
+.contact-form select,
+.contact-form textarea {
+    width: 100%;
+    padding: 0.5em;
+    margin-bottom: 1em;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.contact-form button {
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    padding: 0.75em 1.5em;
+    cursor: pointer;
+    border-radius: 4px;
+    font-size: 1em;
+}
+
+.contact-form button:hover {
+    background-color: #45a049;
+}
+
+.contact-info {
+    flex: 1 1 45%;
+    background: #fff;
+    padding: 1.5em;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    width: 700px;
+}
+
+.contact-info h2 {
+    margin-bottom: 1em;
+    color: #4CAF50;
+}
+
+.contact-info p {
+    margin-bottom: 0.8em;
+}
+
+.contact-info a {
+    color: #4CAF50;
+    text-decoration: none;
+}
+
+.contact-info a:hover {
+    text-decoration: none;
+}
+
+.social-icons {
+    display: flex;
+    gap: 1em;
+    justify-content: flex-start; 
+    margin-top: 1em;
+    color: white;
+    
+}
+
+.social-icon {
+    display: inline-block;
+    padding: 0.5em 1em;
+    background-color: #fff; 
+    color: #000; 
+    text-decoration: none;
+    border-radius: 4px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.social-icon:hover {
+    background-color: #bebdb8; 
+    color: black;
+}
+footer {
+    text-align: center;
+    font-weight: bold;
+    padding: 1em 0;
+    background-color: #333;
+    color: #fff;
+    margin-top: 2em;
+}
+
+footer p {
+    margin: 0;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+}
+
+.about-us {
+    padding: 20px;
+    background-color: #ffffff;
+    margin: 20px 0 20px auto;
+    max-width: 50%;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    width: 900px; /* Set the width of the left frame */
+    height: 75vh; /* Set the height to cover the full viewport height */
+    background-color: #f0f0f0; /* Set a background color */
+    position: absolute; /* Fix the frame to the left side */
+    top: 150px; /* Align to the top of the page */
+    left: 100px; /* Align to the left of the screen */
+    padding: 20px; /* Add some padding inside the frame */
+}
+
+.about-us h2 {
+    font-size: 24px;
+    text-align: left;
+    margin-bottom: 10px;
+    color: #333333;
+    
+}
+
+.about-us p {
+    font-size: 16px;
+    color: #555555;
+    text-align: left;
+    margin: 10px 0;
+}
+
+.founder {
+    margin-top: 20px;
+    text-align: left;
+}
+
+.profile-pic {
+    width: 200px; /* Adjust width as needed */
+    height: 250px; /* Adjust height as needed */
+    border-radius: 0; /* Remove border-radius to make it rectangular */
+    object-fit: cover;
+    margin-bottom: 10px;
+    border: 2px solid #333333;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 30px;
+    background-color: #f4f4f4;
+    line-height: 1.6;
+}
+
+table {
+    width: 90%;
+    border-collapse: separate;
+    border-spacing: 0;
+    margin: 40px auto;
+    background: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+table th, table td {
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: left;
+    font-size: 16px;
+}
+
+table th {
+    background-color: #007BFF;
+    color: white;
+    font-size: 18px;
+}
+
+tr:hover {
+    background-color: #f1f1f1;
+}
+.aarti
+{
+    background-image: url(../images/Water\ Raft.webp);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-attachment: fixed;
+    background-size: cover;
+    margin: auto;
+    color: white
+}
+.whitewaterrafting
+{
+    background-image: url(../images/White\ water\ Rafting.jpg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-attachment: fixed;
+    background-size: cover;
+    margin: auto;
+    color: white
+}
+.boats
+{
+    background-image: url(../images/Ganga\ Mountain.jpeg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-attachment: fixed;
+    background-size: cover;
+    margin: auto;
+    color: white
+}
+.main {
+    text-align: center;
+}
+
+.marq {
+    padding-top: 10px;
+    margin-top: 94px;
+    padding-bottom: 10px;
+    width: 100%;
+    position: fixed;
+    margin-left: 0px;
+    margin-bottom: 1000px;
+}
+
+.marq1 {
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    padding-bottom: 10px;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+.navbar {
+    background-color: rgba(51, 51, 51, 0.8);
+    color: white;
+    padding: 10px;
+    text-align: center;
+    backdrop-filter: blur(5px); /* Adds a blur effect */
+    -webkit-backdrop-filter: blur(5px); /* For Safari compatibility */
+    position: fixed; /* Keeps it fixed to the top */
+    top: 0; /* Position at the top of the viewport */
+    width: 100%; /* Ensures the navbar spans the full width */
+    z-index: 1000; /* Ensures it stays above other elements */
+}
+.container3 {
+    display: flex;
+    
+    height: calc(100vh - 50px);
+}
+.sidebar {
+    margin-top: 100px;
+    width: 25%;
+    height: 100%;
+    background-color: #ffffff;
+    padding: 20px;
+    box-shadow: 2px 0 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+.sidebar button {
+    width: 100%;
+    padding: 12px 20px;
+    margin-bottom: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.sidebar button:hover {
+    background-color: #0056b3;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.frame-container {
+    margin-top: 100px;
+    width: 80%;
+    padding: 20px;
+    background-color: #CBCBCB;
+    border-radius: 8px;
+    height: 100%;
+}
+iframe {
+    width: 100%;
+    height: 100%;
+    border: none;
+}
+
+.container2 {
+    display: flex;
+    flex-direction: row; /* Ensures elements are placed side by side */
+    align-items: flex-start; /* Aligns them along the same Y-axis */
+    gap: 20px; /* Adds space between the columns */
+    margin-left: -40px;
+    width: 1200px;
+}
+
+.column {
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    margin-left: 650px;
+    margin-top: 200px;
+    position: relative;
+    width: 4000px;
+    height: 70%; 
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+.column2{
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    margin-left: 650px;
+    margin-top: 200px;
+    position: relative;
+    height: 70%; 
+    width: 414px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+.column3{
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    position: relative;
+    margin-top: 100px;
+    padding: 20px;
+    width: 30%; /* Smaller width for .column3 */
+    height: 320px; /* Adjust height automatically */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+.column4
+{
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    position: relative;
+    margin-bottom: 800px;
+    bottom: 400px;
+    margin-left: 1100px;
+    padding: 20px;
+    width: 30%; /* Smaller width for .column3 */
+    height: 320px; /* Adjust height automatically */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+.account {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+button.btn {
+    background-color: #ffc107;
+    border: none;
+    border-radius: 4px;
+    color: #fff;
+    padding: 10px;
+    font-size: 14px;
+    cursor: pointer;
+    width: 30%;
+    margin-bottom: 90px;
+}
+button.signin {
+    background-color: #ffc107;
+    border: none;
+    border-radius: 4px;
+    color: #fff;
+    padding: 10px;
+    font-size: 14px;
+    cursor: pointer;
+    width: 30%;
+    margin-left: 160px;
+    margin-bottom: 10px;
+}
+button.donate{
+    background-color: darkblue;
+    border: none;
+    border-radius: 4px;
+    color: #fff;
+    padding: 10px;
+    font-size: 14px;
+    cursor: pointer;
+    width: 50%;
+    margin-left: 105px;
+    margin-bottom: 100px;
+}
+button.btn:hover {
+    background-color: #e0a800;
+}
+
+p {
+    font-size: 12px;
+    color: #666;
+    line-height: 1.5;
+    margin-bottom: 10px;
+}
+.conditions2{
+    color: #007bff;
+}
+p.help {
+    font-weight: bold;
+    color: #333;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+
+ul li {
+    margin-bottom: 5px;
+}
+
+ul li a {
+    font-size: 12px;
+    color: #007bff;
+    text-decoration: none;
+}
+
+.create-account-link, .sign-in-link {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.create-account-link:hover, .sign-in-link:hover {
+    text-decoration: underline;
+}
+
+small {
+    display: block;
+    font-size: 11px;
+    color: #888;
+    margin-top: -10px;
+    margin-bottom: 15px;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+/* .container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background: #fff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+} */
+
+.terms2 {
+    text-align: center;
+    color: #0056b3;
+    color: black;
+}
+
+.terms3 {
+    text-align: left;
+    color: #003d80;
+    top: 200px;
+    color: black;
+}
+
+.conditions {
+    text-align: left;
+    margin: 10px 0 20px 20px;
+    color: black;
+}
+
+a {
+    color: #0056b3;
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+.terms{
+    background-color: white;
+    color: black;
+    width: 50%;
+    text-decoration: none;
+}
+.about-me{
+    background-image: url(../images/MainImage.jpg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-attachment: fixed;
+    background-size: cover;
+    margin: auto;
+    color: white
+}
+.Volunteer{
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    margin-left: 650px;
+    margin-top: 200px;
+    position: relative;
+    height: 70%; 
+    width: 414px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+.volunteerbtn{
+    background-color: #ffc107;
+    border: none;
+    border-radius: 4px;
+    color: #fff;
+    padding: 10px;
+    font-size: 14px;
+    cursor: pointer;
+    width: 30%;
+    margin-bottom: 10px;
+}
+.Volunteeraccount{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+/* body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+    color: #333;
+} */
+
+.container_donation {
+    max-width: 800px;
+    width: 1000px;
+    margin: 50px auto;
+    padding: 20px;
+    background: #fff;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    
+}
+.support{
+    margin-top: 100px;
+    font-size: 12px;
+    text-decoration: none;
+}
+h1{
+    text-align: center;
+}
+h2 {
+    text-align: left;
+}
+
+.donation-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-size: 18px;
+    text-align: left;
+}
+
+.donation-table th, .donation-table td {
+    border: 1px solid black;
+    padding: 12px;
+    transition: transform 0.2s; /* Smooth animation for hover effect */
+}
+
+.donation-table th {
+    background-color: #9B9A9C;
+    color: black;
+}
+
+.tablerow {
+    background-color: white;
+    transition: background-color 0.3s, transform 0.2s; /* Add smooth transitions for hover effects */
+}
+
+.tablerow:hover {
+    transform: scale(1.05); /* Scales the row */
+    background-color: #f0f0f0; /* Optional: Slight background color change on hover */
+    border: 1px solid black; /* Keeps the border intact */
+}
+
+.donation-options {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.donation-options button {
+    margin-top: 100px;
+    background-color: #D5B60A;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: -22px;
+    font-size: 16px;
+    margin-right: 560px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: transform 0.2s, background-color 0.3s;
+    display: flex;
+    flex-direction: column; /* Stack buttons vertically */
+    align-items: center; /* Center the buttons horizontally within the container */
+}
+
+.donation-options button:hover {
+    background-color: #D5B60A;
+    transform: scale(1.05);
+}
+
+.donation-options button:active {
+    transform: scale(0.95);
+}
+.donation-button1{
+    width: 200px; /* Make the buttons take full width, or adjust to preferred size */
+    padding: 10px; /* Adds padding for a better button look */
+    font-size: 16px; /* Adjust font size as needed */
+    left: 200px;
+}
+.donation-button2{
+    width: 200px; /* Make the buttons take full width, or adjust to preferred size */
+    padding: 10px; /* Adds padding for a better button look */
+    font-size: 16px; /* Adjust font size as needed */
+}
+/* General Styles */
+.volunteers_hours {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+    color: #333;
+}
+.volunteer_header{
+    margin-top: 200px;
+}
+.header {
+    margin-top: 100px;
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+.report-section {
+    width: 800px;
+    margin: 2rem auto;
+    padding: 1rem;
+    max-width: 800px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.report-section h2 {
+    border-bottom: 2px solid #4CAF50;
+    padding-bottom: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+.report-card {
+    background: #e8f5e9;
+    padding: 1rem;
+    border-radius: 8px;
+    margin-bottom: 1rem;
+}
+
+.timeline {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.timeline-item {
+    background: #e3f2fd;
+    padding: 1rem;
+    border-radius: 8px;
+    position: relative;
+}
+
+.timeline-item:before {
+    content: '';
+    position: absolute;
+    left: -10px;
+    top: 15px;
+    width: 8px;
+    height: 8px;
+    background: #4CAF50;
+    border-radius: 50%;
+}
+
+.timeline-item h3 {
+    margin-top: 0;
+}
