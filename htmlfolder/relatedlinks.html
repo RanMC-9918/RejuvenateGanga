@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Related Links - Rejuvenate Ganga</title>
+    <link rel="stylesheet" href="../cssfolder/styles.css">
+</head>
+
+<body class="whitewaterrafting">
+    <!-- Navigation Bar -->
+    <nav class="navbar">
+        <ul>
+            <li><a href="contact.html">Contact Us</a></li>
+            <li><a href="aboutme.html">About Us</a></li>
+            <li><a href="supportus.html">Support Us</a></li>
+            <li><a href="relatedlinks.html">Related Links</a></li>
+            <li><a href="ourmission.html">Our Mission</a></li>
+            <li><a href="aboutus.html">About Ganges</a></li>
+            <li><a href="../index.html">Home</a></li>
+        </ul>
+    </nav>
+
+    <!-- Main Content -->
+    <div class="container3">
+        <!-- Sidebar with links -->
+        <div class="sidebar">
+            <button type="button" onclick="loadWebsite('https://nmcg.nic.in/gangaactionplan1.aspx')">Ganga Action Plan</button>
+            <button type="button" onclick="loadWebsite('https://nmcg.nic.in/aims_obj.aspx')">Aims and Objectives</button>
+            <button type="button" onclick="loadWebsite('https://nmcg.nic.in/courseofganga.aspx')">Course of Ganga</button>
+            <button type="button" onclick="loadWebsite('https://gkc-nmcgindia.hub.arcgis.com/', false, true)">Ganga Knowledge Center</button>
+            <button type="button" onclick="loadWebsite('https://www.ifc.org/en/stories/2023/breathing-life-back-into-the-ganga')">International Finance Corporation (IFC)</button>
+            <button type="button" onclick="loadWebsite('https://www.unep.org/news-and-stories/story/restoring-indias-holiest-river')">United Nations Environment Programme (UNEP)</button>
+            <button type="button" onclick="loadWebsite('https://www.britannica.com/place/Ganges-River', false, true)">Britannica</button>
+        </div>
+
+        <!-- Frame container with fallback message -->
+        <div class="frame-container">
+            <iframe id="frame" width="100%" height="500px"></iframe>
+            <p>If the page does not load, <a id="fallback-link" href="https://nmcg.nic.in/gangaactionplan1.aspx" target="_blank">click here</a>.</p>
+        </div>
+    </div>
+
+    <!-- JavaScript -->
+    <script>
+        /**
+         * Loads a website in the iframe and conditionally opens in a new tab for certain links on mobile.
+         * @param {string} url - The URL to load.
+         * @param {boolean} skipNewTab - If true, don't open in new tab.
+         * @param {boolean} preventRedirect - If true, don't redirect users when certain links are clicked.
+         */
+        function loadWebsite(url, skipNewTab = false, preventRedirect = false) {
+            const frame = document.getElementById('frame');
+            const fallbackLink = document.getElementById('fallback-link');
+
+            // Detect mobile device
+            const isMobile = window.innerWidth <= 768;
+
+            if (fallbackLink) {
+                fallbackLink.href = url;
+            }
+
+            // Ensure Britannica & Ganga Knowledge Center work on mobile
+            if (preventRedirect && isMobile) {
+                window.open(url, '_blank');
+                return;
+            }
+
+            frame.src = url;
+
+            if (!skipNewTab && !preventRedirect) {
+                alert("You are now being redirected to an external site.");
+                window.open(url, '_blank');
+            }
+        }
+
+        // Removed Britannica & Ganga Knowledge Center from auto-load on page load
+    </script>
+
+    <script src="../javascriptfolder/index.js"></script>
+</body>
+
+</html>

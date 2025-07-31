@@ -1,0 +1,52 @@
+[ 2025-06-15 19:02:12 ] Script started.
+[ 2025-06-15 19:02:12 ] POST request received.
+[ 2025-06-15 19:02:12 ] Email: test@gmail.com, Password (hashed for log): 098f6bcd4621d373cade4e832627b4f6
+[ 2025-06-15 19:02:12 ] User found. 
+[ 2025-06-15 19:02:12 ] Password plaintext check result: true
+[ 2025-06-15 19:02:12 ] Login successful. Redirecting to volunteer_hours.php
+[ 2025-06-15 19:06:23 ] Script started.
+[ 2025-06-15 19:06:23 ] POST request received.
+[ 2025-06-15 19:06:23 ] Email: Tester@gmail.com, Password (hashed for log): 098f6bcd4621d373cade4e832627b4f6
+[ 2025-06-15 19:06:23 ] User found. 
+[ 2025-06-15 19:06:23 ] Password plaintext check result: true
+[ 2025-06-15 19:06:23 ] Login successful. Redirecting to volunteer_hours.php
+[ 2025-06-15 19:13:35 ] Script started.
+[ 2025-06-15 19:13:35 ] POST request received.
+[ 2025-06-15 19:13:35 ] Email: Tester@gmail.com, Password (hashed for log): 098f6bcd4621d373cade4e832627b4f6
+[ 2025-06-15 19:13:35 ] User found. 
+[ 2025-06-15 19:13:35 ] Password plaintext check result: true
+[ 2025-06-15 19:13:35 ] Login successful. Redirecting to volunteer_hours.php
+[ 2025-06-15 19:14:07 ] Script started.
+[ 2025-06-15 19:14:07 ] POST request received.
+[ 2025-06-15 19:14:07 ] Email: Tester@gmail.com, Password (hashed for log): 098f6bcd4621d373cade4e832627b4f6
+[ 2025-06-15 19:14:07 ] User found. 
+[ 2025-06-15 19:14:07 ] Password plaintext check result: true
+[ 2025-06-15 19:14:07 ] Login successful. Redirecting to volunteer_hours.php
+[ 2025-06-15 19:15:31 ] Script started.
+[ 2025-06-15 19:15:31 ] POST request received.
+[ 2025-06-15 19:15:31 ] Email: Tester@gmail.com, Password (hashed for log): 098f6bcd4621d373cade4e832627b4f6
+[ 2025-06-15 19:15:31 ] User found. 
+[ 2025-06-15 19:15:31 ] Password plaintext check result: true
+[ 2025-06-15 19:15:31 ] Login successful. Redirecting to volunteer_hours.php
+[ 2025-06-15 19:15:41 ] Script started.
+[ 2025-06-15 19:15:41 ] POST request received.
+[ 2025-06-15 19:15:41 ] Email: Tester@gmail.com, Password (hashed for log): 098f6bcd4621d373cade4e832627b4f6
+[ 2025-06-15 19:15:41 ] User found. 
+[ 2025-06-15 19:15:41 ] Password plaintext check result: true
+[ 2025-06-15 19:15:41 ] Login successful. Redirecting to volunteer_hours.php
+[ 2025-06-15 19:20:01 ] Script started.
+[ 2025-06-15 19:20:01 ] POST request received.
+[ 2025-06-15 19:20:01 ] Email: Tester@gmail.com, Password (hashed for log): 098f6bcd4621d373cade4e832627b4f6
+[ 2025-06-15 19:20:01 ] User found. 
+[ 2025-06-15 19:20:01 ] Password plaintext check result: true
+[ 2025-06-15 19:20:01 ] Login successful. Redirecting to volunteer_hours.php
+[ 2025-06-15 19:26:55 ] Script started.
+[ 2025-06-15 19:27:00 ] Script started.
+[ 2025-06-19 04:08:22 ] Script started.
+[ 2025-06-19 04:08:22 ] Script finished without POST.
+[ 2025-07-01 21:26:34 ] Script started.
+[ 2025-07-01 21:26:34 ] Script finished without POST.
+[ 2025-07-17 20:53:48 ] Script started.
+[ 2025-07-17 20:56:36 ] Script started.
+[ 2025-07-17 20:57:46 ] Script started.
+[ 2025-07-17 20:57:57 ] Script started.

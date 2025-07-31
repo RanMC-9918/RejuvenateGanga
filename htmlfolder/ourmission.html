@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Our Mission - Rejuvenate Ganga</title>
+    <link rel="stylesheet" href="../cssfolder/styles.css">
+</head>
+
+<body class ="boats">
+    <nav class="navbar">
+        <ul>
+            <li><a href="contact.html">Contact Us</a></li>
+            <li><a href="aboutme.html">About Us</a></li>
+            <li><a href="supportus.html">Support Us</a></li>
+            <li><a href="relatedlinks.html">Related Links</a></li>
+            <li><a href="ourmission.html">Our Mission</a></li>
+            <li><a href="aboutus.html">About Ganges</a></li>
+            <li><a href="../index.html">Home</a></li>
+        </ul>
+    </nav>
+    <div class="container10">
+        <h1 class="mission">Our Mission</h1>
+        <div class="mission-text"></div>
+            <br class="mission-text2">
+            <p class="mission-text2">
+                Our mission is to restore and preserve the Ganges River for future generations.
+                We aim to bring awareness and address the pollution and ecological challenges threatening this sacred river
+                by raising awareness, promoting sustainable practices, and fostering community involvement.
+            </p>
+            <p class="mission-text2">
+                The irrigation canals in the Ganga basin face challenges such as water wastage, 
+                pollution from agricultural runoff, and siltation. Additionally, with growing demands 
+                from agriculture, industry, and domestic use, there are concerns about the sustainability 
+                of water resources in the region. 
+            </p>
+            <p class="mission-text2">
+                Efforts to modernize irrigation systems and manage water resources more effectively, 
+                including using canal lining to reduce water loss, are essential for ensuring that 
+                the Ganga continues to support both agriculture and environmental health in the 
+                long term.
+            </p>
+            <p class="mission-text2">
+                By uniting individuals, communities, and organizations, we strive to create impactful
+                change through clean-up drives, educational campaigns, and partnerships with local
+                authorities. Together, we can revive the Ganges and ensure its health and vitality
+                for years to come.
+            </p class="mission-text2">
+            
+        </div>
+        <img src="../images/OurMissionPlannerV5.png" alt="Mission Image" class="mission-image">
+        <div class="cta">
+            <a href="supportus.html">Join Our Mission</a>
+        </div>
+    </div>
+    <style>
+   /* Parent container for centering */
+.cta-container {
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    height: 100vh; /* Full viewport height */
+    width: 100%;
+    align-items: center !important;
+}
+
+.cta {
+    display: flex;
+    margin-left: 100px;
+    justify-content: center; /* Center the button horizontally */
+    width: 100%;
+    text-decoration: none;
+    margin-top: 50px; /* Optional: Adjust for spacing */
+    align-items: center !important; /* Ensures button is vertically centered in the .cta container */
+}
+
+.cta a {
+    background-color: #00674F; /* Same as btn3 */
+    color: white !important; /* Ensure text is white */
+    align-items: center !important;
+    padding: 12px 24px; /* Match padding to btn3 */
+    text-decoration: none !important; /* Prevent underline */
+    border-radius: 30px; /* Rounded corners */
+    font-size: 1.2vw; /* Adjust font size based on viewport */
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease; /* Smooth transition for hover */
+    display: inline-block;
+    text-align: center;
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.3); /* Floating shadow */
+    
+    /* Floating Animation (like btn3) */
+    animation: floating 3s infinite ease-in-out;
+}
+
+.cta a:hover {
+    background-color: #00503D; /* Darker green on hover */
+    transform: translate(-50%, -5px) scale(1.05); /* Hover effect */
+    box-shadow: 0 12px 18px rgba(0, 0, 0, 0.25); /* Stronger shadow */
+    text-decoration: none !important; /* Prevent underline on hover */
+}
+
+/* Floating animation similar to btn3 */
+@keyframes floating {
+    0% {
+        transform: translate(-50%, 0px);
+    }
+    50% {
+        transform: translate(-50%, -10px);
+    }
+    100% {
+        transform: translate(-50%, 0px);
+    }
+}
+
+@media (max-width: 768px) {
+    .cta {
+        margin-left: 70px;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        width: 100%;
+        display: flex; /* Ensures flexbox centering */
+    }
+
+    .cta a {
+        font-size: 4vw;
+        padding: 10px 20px;
+        text-align: center;
+        display: block;
+        margin: 0 auto; /* This helps center a block element */
+    }
+}
+
+
+    </style>
+    <script src="../javascriptfolder/index.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,1206 @@
+[05-Apr-2025 04:18:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/zts91xzcemos/public_html/submit_form.php:14
+Stack trace:
+#0 /home/zts91xzcemos/public_html/submit_form.php(14): mysqli_connect()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/submit_form.php on line 14
+[05-Apr-2025 10:12:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/zts91xzcemos/public_html/forget_password.php:12
+Stack trace:
+#0 /home/zts91xzcemos/public_html/forget_password.php(12): mysqli->__construct()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/forget_password.php on line 12
+[05-Apr-2025 17:35:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/zts91xzcemos/public_html/forget_password.php:12
+Stack trace:
+#0 /home/zts91xzcemos/public_html/forget_password.php(12): mysqli->__construct()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/forget_password.php on line 12
+[05-Apr-2025 19:33:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/zts91xzcemos/public_html/submit_form.php:14
+Stack trace:
+#0 /home/zts91xzcemos/public_html/submit_form.php(14): mysqli_connect()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/submit_form.php on line 14
+[05-Apr-2025 19:44:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/zts91xzcemos/public_html/submit_form.php:14
+Stack trace:
+#0 /home/zts91xzcemos/public_html/submit_form.php(14): mysqli_connect()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/submit_form.php on line 14
+[05-Apr-2025 19:54:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/zts91xzcemos/public_html/submit_form.php:14
+Stack trace:
+#0 /home/zts91xzcemos/public_html/submit_form.php(14): mysqli_connect()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/submit_form.php on line 14
+[05-Apr-2025 19:55:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/zts91xzcemos/public_html/submit_form.php:14
+Stack trace:
+#0 /home/zts91xzcemos/public_html/submit_form.php(14): mysqli_connect()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/submit_form.php on line 14
+[05-Apr-2025 19:55:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/zts91xzcemos/public_html/submit_form.php:14
+Stack trace:
+#0 /home/zts91xzcemos/public_html/submit_form.php(14): mysqli_connect()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/submit_form.php on line 14
+[05-Apr-2025 20:04:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/zts91xzcemos/public_html/submit_form.php:14
+Stack trace:
+#0 /home/zts91xzcemos/public_html/submit_form.php(14): mysqli_connect()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/submit_form.php on line 14
+[05-Apr-2025 20:04:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/zts91xzcemos/public_html/submit_form.php:14
+Stack trace:
+#0 /home/zts91xzcemos/public_html/submit_form.php(14): mysqli_connect()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/submit_form.php on line 14
+[05-Apr-2025 20:04:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/zts91xzcemos/public_html/submit_form.php:14
+Stack trace:
+#0 /home/zts91xzcemos/public_html/submit_form.php(14): mysqli_connect()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/submit_form.php on line 14
+[05-Apr-2025 20:07:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'zts91xzcemos_rejuvenateuser'@'localhost' (using password: YES) in /home/zts91xzcemos/public_html/submit_form.php:14
+Stack trace:
+#0 /home/zts91xzcemos/public_html/submit_form.php(14): mysqli_connect()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/submit_form.php on line 14
+[06-Apr-2025 15:59:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'donation_amount' in 'SELECT' in /home/zts91xzcemos/public_html/report_account.php:22
+Stack trace:
+#0 /home/zts91xzcemos/public_html/report_account.php(22): mysqli->prepare()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/report_account.php on line 22
+[06-Apr-2025 20:49:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/zts91xzcemos/public_html/donation_withoutsignin.php:88
+Stack trace:
+#0 /home/zts91xzcemos/public_html/donation_withoutsignin.php(88): mysqli->__construct()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/donation_withoutsignin.php on line 88
+[06-Apr-2025 20:49:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/zts91xzcemos/public_html/donation_withoutsignin.php:88
+Stack trace:
+#0 /home/zts91xzcemos/public_html/donation_withoutsignin.php(88): mysqli->__construct()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/donation_withoutsignin.php on line 88
+[06-Apr-2025 20:50:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/zts91xzcemos/public_html/donation_withoutsignin.php:88
+Stack trace:
+#0 /home/zts91xzcemos/public_html/donation_withoutsignin.php(88): mysqli->__construct()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/donation_withoutsignin.php on line 88
+[06-Apr-2025 20:52:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/zts91xzcemos/public_html/donation_withoutsignin.php:88
+Stack trace:
+#0 /home/zts91xzcemos/public_html/donation_withoutsignin.php(88): mysqli->__construct()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/donation_withoutsignin.php on line 88
+[06-Apr-2025 21:29:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/zts91xzcemos/public_html/changepassword.php:12
+Stack trace:
+#0 /home/zts91xzcemos/public_html/changepassword.php(12): mysqli->__construct()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/changepassword.php on line 12
+[06-Apr-2025 21:30:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/zts91xzcemos/public_html/forget_password.php:12
+Stack trace:
+#0 /home/zts91xzcemos/public_html/forget_password.php(12): mysqli->__construct()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/forget_password.php on line 12
+[06-Apr-2025 21:34:34 UTC] PHP Warning:  Undefined array key "old_password" in /home/zts91xzcemos/public_html/change_password.php on line 16
+[06-Apr-2025 21:34:34 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/zts91xzcemos/public_html/change_password.php on line 16
+[07-Apr-2025 02:50:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/zts91xzcemos/public_html/donation.php:7
+Stack trace:
+#0 /home/zts91xzcemos/public_html/donation.php(7): mysqli_connect()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/donation.php on line 7
+[07-Apr-2025 02:50:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/zts91xzcemos/public_html/donation.php:7
+Stack trace:
+#0 /home/zts91xzcemos/public_html/donation.php(7): mysqli_connect()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/donation.php on line 7
+[07-Apr-2025 03:01:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/zts91xzcemos/public_html/donation_withoutsignin.php:88
+Stack trace:
+#0 /home/zts91xzcemos/public_html/donation_withoutsignin.php(88): mysqli->__construct()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/donation_withoutsignin.php on line 88
+[13-Apr-2025 02:04:40 UTC] PHP Warning:  Undefined variable $user_name in /home/zts91xzcemos/public_html/donation.php on line 248
+[13-Apr-2025 02:04:40 UTC] PHP Warning:  Undefined variable $user_name in /home/zts91xzcemos/public_html/donation.php on line 384
+[13-Apr-2025 02:04:40 UTC] PHP Warning:  Undefined variable $user_name in /home/zts91xzcemos/public_html/donation.php on line 384
+[14-Apr-2025 23:49:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/zts91xzcemos/public_html/volunteerchangepassword.php:12
+Stack trace:
+#0 /home/zts91xzcemos/public_html/volunteerchangepassword.php(12): mysqli->__construct()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/volunteerchangepassword.php on line 12
+[15-Apr-2025 09:09:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/zts91xzcemos/public_html/volunteerchangepassword.php:12
+Stack trace:
+#0 /home/zts91xzcemos/public_html/volunteerchangepassword.php(12): mysqli->__construct()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/volunteerchangepassword.php on line 12
+[16-Apr-2025 17:14:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/zts91xzcemos/public_html/volunteerchangepassword.php:12
+Stack trace:
+#0 /home/zts91xzcemos/public_html/volunteerchangepassword.php(12): mysqli->__construct()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/volunteerchangepassword.php on line 12
+[17-Apr-2025 20:21:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'donation_amount' in 'SELECT' in /home/zts91xzcemos/public_html/report_account.php:22
+Stack trace:
+#0 /home/zts91xzcemos/public_html/report_account.php(22): mysqli->prepare()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/report_account.php on line 22
+[17-Apr-2025 20:21:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'donation_amount' in 'SELECT' in /home/zts91xzcemos/public_html/report_account.php:22
+Stack trace:
+#0 /home/zts91xzcemos/public_html/report_account.php(22): mysqli->prepare()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/report_account.php on line 22
+[17-Apr-2025 20:21:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'donation_amount' in 'SELECT' in /home/zts91xzcemos/public_html/report_account.php:22
+Stack trace:
+#0 /home/zts91xzcemos/public_html/report_account.php(22): mysqli->prepare()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/report_account.php on line 22
+[17-Apr-2025 20:22:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'donation_amount' in 'SELECT' in /home/zts91xzcemos/public_html/report_account.php:22
+Stack trace:
+#0 /home/zts91xzcemos/public_html/report_account.php(22): mysqli->prepare()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/report_account.php on line 22
+[17-Apr-2025 20:23:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'donation_amount' in 'SELECT' in /home/zts91xzcemos/public_html/report_account.php:22
+Stack trace:
+#0 /home/zts91xzcemos/public_html/report_account.php(22): mysqli->prepare()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/report_account.php on line 22
+[17-Apr-2025 20:23:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'donation_amount' in 'SELECT' in /home/zts91xzcemos/public_html/report_account.php:22
+Stack trace:
+#0 /home/zts91xzcemos/public_html/report_account.php(22): mysqli->prepare()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/report_account.php on line 22
+[18-Apr-2025 01:22:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'donation_amount' in 'SELECT' in /home/zts91xzcemos/public_html/report_account.php:22
+Stack trace:
+#0 /home/zts91xzcemos/public_html/report_account.php(22): mysqli->prepare()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/report_account.php on line 22
+[18-Apr-2025 01:24:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'donation_amount' in 'SELECT' in /home/zts91xzcemos/public_html/report_account.php:22
+Stack trace:
+#0 /home/zts91xzcemos/public_html/report_account.php(22): mysqli->prepare()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/report_account.php on line 22
+[18-Apr-2025 01:24:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'donation_amount' in 'SELECT' in /home/zts91xzcemos/public_html/report_account.php:22
+Stack trace:
+#0 /home/zts91xzcemos/public_html/report_account.php(22): mysqli->prepare()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/report_account.php on line 22
+[18-Apr-2025 01:25:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'donation_amount' in 'SELECT' in /home/zts91xzcemos/public_html/report_account.php:22
+Stack trace:
+#0 /home/zts91xzcemos/public_html/report_account.php(22): mysqli->prepare()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/report_account.php on line 22
+[18-Apr-2025 01:26:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'donation_amount' in 'SELECT' in /home/zts91xzcemos/public_html/report_account.php:25
+Stack trace:
+#0 /home/zts91xzcemos/public_html/report_account.php(25): mysqli->prepare()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/report_account.php on line 25
+[18-Apr-2025 01:35:37 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/zts91xzcemos/public_html/report_account.php on line 55
+[18-Apr-2025 01:35:37 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/zts91xzcemos/public_html/report_account.php on line 55
+[18-Apr-2025 01:35:37 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/zts91xzcemos/public_html/report_account.php on line 54
+[18-Apr-2025 01:39:00 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/zts91xzcemos/public_html/report_account.php on line 55
+[18-Apr-2025 01:39:00 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/zts91xzcemos/public_html/report_account.php on line 55
+[18-Apr-2025 01:39:00 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/zts91xzcemos/public_html/report_account.php on line 54
+[18-Apr-2025 15:25:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'Tester@gmail.com' for key 'PRIMARY' in /home/zts91xzcemos/public_html/volunteersubmit.php:43
+Stack trace:
+#0 /home/zts91xzcemos/public_html/volunteersubmit.php(43): mysqli_query()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/volunteersubmit.php on line 43
+[18-Apr-2025 17:09:16 UTC] PHP Warning:  Undefined array key "old_password" in /home/zts91xzcemos/public_html/change_password.php on line 16
+[18-Apr-2025 17:09:16 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/zts91xzcemos/public_html/change_password.php on line 16
+[18-Apr-2025 17:09:47 UTC] PHP Warning:  Undefined array key "old_password" in /home/zts91xzcemos/public_html/change_password.php on line 16
+[18-Apr-2025 17:09:47 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/zts91xzcemos/public_html/change_password.php on line 16
+[18-Apr-2025 17:11:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/zts91xzcemos/public_html/volunteerchangepassword.php:12
+Stack trace:
+#0 /home/zts91xzcemos/public_html/volunteerchangepassword.php(12): mysqli->__construct()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/volunteerchangepassword.php on line 12
+[18-Apr-2025 17:12:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/zts91xzcemos/public_html/volunteerchange_password.php:6
+Stack trace:
+#0 /home/zts91xzcemos/public_html/volunteerchange_password.php(6): mysqli_connect()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/volunteerchange_password.php on line 6
+[18-Apr-2025 17:24:31 UTC] PHP Fatal error:  Uncaught ArgumentCountError: var_dump() expects at least 1 argument, 0 given in /home/zts91xzcemos/public_html/change_password.php:18
+Stack trace:
+#0 /home/zts91xzcemos/public_html/change_password.php(18): var_dump()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/change_password.php on line 18
+[18-Apr-2025 17:24:57 UTC] PHP Warning:  Undefined variable $stored_password in /home/zts91xzcemos/public_html/change_password.php on line 19
+[20-Apr-2025 18:50:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/zts91xzcemos/public_html/donation.php:7
+Stack trace:
+#0 /home/zts91xzcemos/public_html/donation.php(7): mysqli_connect()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/donation.php on line 7
+[20-Apr-2025 22:07:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/zts91xzcemos/public_html/admin_login.php:7
+Stack trace:
+#0 /home/zts91xzcemos/public_html/admin_login.php(7): mysqli_connect()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/admin_login.php on line 7
+[20-Apr-2025 22:29:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/zts91xzcemos/public_html/manage_admins.php:7
+Stack trace:
+#0 /home/zts91xzcemos/public_html/manage_admins.php(7): mysqli_connect()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/manage_admins.php on line 7
+[22-Apr-2025 00:47:58 UTC] PHP Warning:  Undefined array key "firstname" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 26
+[22-Apr-2025 00:47:58 UTC] PHP Warning:  Undefined array key "lastname" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 27
+[22-Apr-2025 00:47:58 UTC] PHP Warning:  Undefined array key "email" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 28
+[22-Apr-2025 00:47:58 UTC] PHP Warning:  Undefined array key "password" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 29
+[22-Apr-2025 00:47:58 UTC] PHP Warning:  Undefined array key "recoverytext" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 30
+[22-Apr-2025 00:47:58 UTC] PHP Warning:  Undefined array key "city" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 31
+[22-Apr-2025 00:47:58 UTC] PHP Warning:  Undefined array key "state" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 32
+[22-Apr-2025 00:47:58 UTC] PHP Warning:  Undefined array key "country" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 33
+[22-Apr-2025 00:47:58 UTC] PHP Warning:  Undefined array key "dob" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 34
+[22-Apr-2025 00:47:58 UTC] PHP Warning:  Undefined array key "organization" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 35
+[22-Apr-2025 01:30:53 UTC] PHP Warning:  Undefined array key "firstname" in /home/zts91xzcemos/public_html/submit_form.php on line 22
+[22-Apr-2025 01:30:53 UTC] PHP Warning:  Undefined array key "lastname" in /home/zts91xzcemos/public_html/submit_form.php on line 23
+[22-Apr-2025 01:30:53 UTC] PHP Warning:  Undefined array key "recoverytext" in /home/zts91xzcemos/public_html/submit_form.php on line 24
+[22-Apr-2025 01:30:53 UTC] PHP Warning:  Undefined array key "email" in /home/zts91xzcemos/public_html/submit_form.php on line 25
+[22-Apr-2025 01:30:53 UTC] PHP Warning:  Undefined array key "city" in /home/zts91xzcemos/public_html/submit_form.php on line 26
+[22-Apr-2025 01:30:53 UTC] PHP Warning:  Undefined array key "state" in /home/zts91xzcemos/public_html/submit_form.php on line 27
+[22-Apr-2025 01:30:53 UTC] PHP Warning:  Undefined array key "country" in /home/zts91xzcemos/public_html/submit_form.php on line 28
+[22-Apr-2025 01:30:53 UTC] PHP Warning:  Undefined array key "password" in /home/zts91xzcemos/public_html/submit_form.php on line 29
+[23-Apr-2025 03:29:19 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 3
+[23-Apr-2025 03:29:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zts91xzcemos/public_html/send_email.php:3
+Stack trace:
+#0 /home/zts91xzcemos/public_html/verify_donation.php(142): require_once()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/send_email.php on line 3
+[23-Apr-2025 03:37:35 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 48
+[23-Apr-2025 03:37:35 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 17
+[23-Apr-2025 03:39:08 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 48
+[23-Apr-2025 03:39:08 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 17
+[23-Apr-2025 03:39:46 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 17
+[23-Apr-2025 03:39:46 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 17
+[23-Apr-2025 03:39:46 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 17
+[23-Apr-2025 03:39:46 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 54
+[23-Apr-2025 03:39:46 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 55
+[23-Apr-2025 03:39:46 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 56
+[23-Apr-2025 03:39:46 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 57
+[23-Apr-2025 03:39:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/zts91xzcemos/public_html/verify_donation.php:157
+Stack trace:
+#0 /home/zts91xzcemos/public_html/verify_donation.php(157): mysqli_rollback()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/verify_donation.php on line 157
+[23-Apr-2025 03:41:20 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 17
+[23-Apr-2025 03:41:20 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 17
+[23-Apr-2025 03:41:20 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 17
+[23-Apr-2025 03:41:20 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 54
+[23-Apr-2025 03:41:20 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 55
+[23-Apr-2025 03:41:20 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 56
+[23-Apr-2025 03:41:20 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 57
+[23-Apr-2025 03:41:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/zts91xzcemos/public_html/verify_donation.php:157
+Stack trace:
+#0 /home/zts91xzcemos/public_html/verify_donation.php(157): mysqli_rollback()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/verify_donation.php on line 157
+[23-Apr-2025 03:41:20 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 48
+[23-Apr-2025 03:41:20 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 17
+[23-Apr-2025 03:43:31 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 17
+[23-Apr-2025 03:43:31 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 17
+[23-Apr-2025 03:43:31 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 17
+[23-Apr-2025 03:43:31 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 54
+[23-Apr-2025 03:43:31 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 55
+[23-Apr-2025 03:43:31 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 56
+[23-Apr-2025 03:43:31 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 57
+[23-Apr-2025 03:43:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/zts91xzcemos/public_html/verify_donation.php:157
+Stack trace:
+#0 /home/zts91xzcemos/public_html/verify_donation.php(157): mysqli_rollback()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/verify_donation.php on line 157
+[23-Apr-2025 03:43:48 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 48
+[23-Apr-2025 03:43:48 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 17
+[23-Apr-2025 03:45:58 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 17
+[23-Apr-2025 03:45:58 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 17
+[23-Apr-2025 03:45:58 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 17
+[23-Apr-2025 03:45:58 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 54
+[23-Apr-2025 03:45:58 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 55
+[23-Apr-2025 03:45:58 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 56
+[23-Apr-2025 03:45:58 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 57
+[23-Apr-2025 03:45:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/zts91xzcemos/public_html/verify_donation.php:157
+Stack trace:
+#0 /home/zts91xzcemos/public_html/verify_donation.php(157): mysqli_rollback()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/verify_donation.php on line 157
+[23-Apr-2025 13:26:24 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 48
+[23-Apr-2025 13:26:24 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 17
+[23-Apr-2025 13:28:34 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 17
+[23-Apr-2025 13:28:34 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 17
+[23-Apr-2025 13:28:34 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 17
+[23-Apr-2025 13:28:34 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 54
+[23-Apr-2025 13:28:34 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 55
+[23-Apr-2025 13:28:34 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 56
+[23-Apr-2025 13:28:34 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 57
+[23-Apr-2025 13:28:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/zts91xzcemos/public_html/verify_donation.php:157
+Stack trace:
+#0 /home/zts91xzcemos/public_html/verify_donation.php(157): mysqli_rollback()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/verify_donation.php on line 157
+[23-Apr-2025 13:28:34 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 48
+[23-Apr-2025 13:28:34 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 17
+[23-Apr-2025 13:30:45 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 17
+[23-Apr-2025 13:30:45 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 17
+[23-Apr-2025 13:30:45 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 17
+[23-Apr-2025 13:30:45 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 54
+[23-Apr-2025 13:30:45 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 55
+[23-Apr-2025 13:30:45 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 56
+[23-Apr-2025 13:30:45 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 57
+[23-Apr-2025 13:30:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/zts91xzcemos/public_html/verify_donation.php:157
+Stack trace:
+#0 /home/zts91xzcemos/public_html/verify_donation.php(157): mysqli_rollback()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/verify_donation.php on line 157
+[23-Apr-2025 22:48:35 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 48
+[23-Apr-2025 22:48:35 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 17
+[23-Apr-2025 22:50:44 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 17
+[23-Apr-2025 22:50:44 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 17
+[23-Apr-2025 22:50:44 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 17
+[23-Apr-2025 22:50:44 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 54
+[23-Apr-2025 22:50:44 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 55
+[23-Apr-2025 22:50:44 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 56
+[23-Apr-2025 22:50:44 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 57
+[23-Apr-2025 22:50:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/zts91xzcemos/public_html/verify_donation.php:157
+Stack trace:
+#0 /home/zts91xzcemos/public_html/verify_donation.php(157): mysqli_rollback()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/verify_donation.php on line 157
+[23-Apr-2025 22:51:27 UTC] PHP Warning:  Undefined variable $donation in /home/zts91xzcemos/public_html/verify_donation.php on line 42
+[23-Apr-2025 22:51:27 UTC] PHP Warning:  Trying to access array offset on null in /home/zts91xzcemos/public_html/verify_donation.php on line 42
+[23-Apr-2025 22:54:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/zts91xzcemos/public_html/verify_donation.php:13
+Stack trace:
+#0 /home/zts91xzcemos/public_html/verify_donation.php(13): mysqli_connect()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/verify_donation.php on line 13
+[23-Apr-2025 22:54:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/zts91xzcemos/public_html/verify_donation.php:13
+Stack trace:
+#0 /home/zts91xzcemos/public_html/verify_donation.php(13): mysqli_connect()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/verify_donation.php on line 13
+[23-Apr-2025 22:54:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/zts91xzcemos/public_html/verify_donation.php:13
+Stack trace:
+#0 /home/zts91xzcemos/public_html/verify_donation.php(13): mysqli_connect()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/verify_donation.php on line 13
+[23-Apr-2025 22:54:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/zts91xzcemos/public_html/verify_donation.php:13
+Stack trace:
+#0 /home/zts91xzcemos/public_html/verify_donation.php(13): mysqli_connect()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/verify_donation.php on line 13
+[23-Apr-2025 22:54:41 UTC] POST data received: Array
+(
+    [action] => verify
+    [donation_id] => 7
+)
+
+[23-Apr-2025 22:54:41 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 48
+[23-Apr-2025 22:54:41 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 17
+[23-Apr-2025 22:56:53 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 17
+[23-Apr-2025 22:56:53 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 17
+[23-Apr-2025 22:56:53 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 17
+[23-Apr-2025 22:56:53 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 54
+[23-Apr-2025 22:56:53 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 55
+[23-Apr-2025 22:56:53 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 56
+[23-Apr-2025 22:56:53 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 57
+[23-Apr-2025 22:56:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/zts91xzcemos/public_html/verify_donation.php:218
+Stack trace:
+#0 /home/zts91xzcemos/public_html/verify_donation.php(218): mysqli_rollback()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/verify_donation.php on line 218
+[23-Apr-2025 22:58:09 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 49
+[23-Apr-2025 22:58:09 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 18
+[23-Apr-2025 23:00:18 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 18
+[23-Apr-2025 23:00:18 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 18
+[23-Apr-2025 23:00:18 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 18
+[23-Apr-2025 23:00:18 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 55
+[23-Apr-2025 23:00:18 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 56
+[23-Apr-2025 23:00:18 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 57
+[23-Apr-2025 23:00:18 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 58
+[23-Apr-2025 23:00:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/zts91xzcemos/public_html/verify_donation.php:157
+Stack trace:
+#0 /home/zts91xzcemos/public_html/verify_donation.php(157): mysqli_rollback()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/verify_donation.php on line 157
+[23-Apr-2025 23:06:45 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "MYSQLI_OPT_WRITE_TIMEOUT" in /home/zts91xzcemos/public_html/verify_donation.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zts91xzcemos/public_html/verify_donation.php on line 16
+[23-Apr-2025 23:08:34 UTC] Starting verification for donation ID: 7
+[23-Apr-2025 23:08:34 UTC] Found pending donation, processing...
+[23-Apr-2025 23:08:34 UTC] Donation insert result: success
+[23-Apr-2025 23:08:34 UTC] Delete from pending result: success
+[23-Apr-2025 23:08:34 UTC] Attempting to send verification email...
+[23-Apr-2025 23:08:34 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 48
+[23-Apr-2025 23:09:45 UTC] Starting verification for donation ID: 7
+[23-Apr-2025 23:09:45 UTC] Found pending donation, processing...
+[23-Apr-2025 23:09:45 UTC] Donation insert result: success
+[23-Apr-2025 23:10:35 UTC] Error in verification process: Lock wait timeout exceeded; try restarting transaction
+[23-Apr-2025 23:10:44 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 54
+[23-Apr-2025 23:10:44 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 55
+[23-Apr-2025 23:10:44 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 56
+[23-Apr-2025 23:10:44 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 57
+[23-Apr-2025 23:10:44 UTC] Email send result: failed
+[23-Apr-2025 23:10:44 UTC] Transaction committed successfully
+[23-Apr-2025 23:24:57 UTC] Starting verification for donation ID: 7
+[23-Apr-2025 23:24:57 UTC] Error in verification process: Donation not found!
+[23-Apr-2025 23:38:29 UTC] Starting verification for donation ID: 8
+[23-Apr-2025 23:38:29 UTC] Found pending donation, processing...
+[23-Apr-2025 23:38:29 UTC] Donation insert result: success
+[23-Apr-2025 23:38:29 UTC] Delete from pending result: success
+[23-Apr-2025 23:38:29 UTC] Attempting to send verification email...
+[23-Apr-2025 23:38:29 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 48
+[23-Apr-2025 23:40:38 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 54
+[23-Apr-2025 23:40:38 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 55
+[23-Apr-2025 23:40:38 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 56
+[23-Apr-2025 23:40:38 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 57
+[23-Apr-2025 23:40:38 UTC] Email send result: failed
+[23-Apr-2025 23:40:38 UTC] Transaction committed successfully
+[23-Apr-2025 23:41:35 UTC] Starting verification for donation ID: 9
+[23-Apr-2025 23:41:35 UTC] Found pending donation, processing...
+[23-Apr-2025 23:41:35 UTC] Donation insert result: success
+[23-Apr-2025 23:41:35 UTC] Delete from pending result: success
+[23-Apr-2025 23:41:35 UTC] Attempting to send verification email...
+[23-Apr-2025 23:41:35 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 48
+[23-Apr-2025 23:43:47 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 54
+[23-Apr-2025 23:43:47 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 55
+[23-Apr-2025 23:43:47 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 56
+[23-Apr-2025 23:43:47 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 57
+[23-Apr-2025 23:43:47 UTC] Email send result: failed
+[23-Apr-2025 23:43:47 UTC] Transaction committed successfully
+[24-Apr-2025 00:20:32 UTC] Starting verification for donation ID: 10
+[24-Apr-2025 00:20:32 UTC] Found pending donation, processing...
+[24-Apr-2025 00:20:32 UTC] Donation insert result: success
+[24-Apr-2025 00:20:32 UTC] Delete from pending result: success
+[24-Apr-2025 00:20:32 UTC] Attempting to send verification email...
+[24-Apr-2025 00:20:32 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 48
+[24-Apr-2025 00:22:42 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 54
+[24-Apr-2025 00:22:42 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 55
+[24-Apr-2025 00:22:42 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 56
+[24-Apr-2025 00:22:42 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 57
+[24-Apr-2025 00:22:42 UTC] Email send result: failed
+[24-Apr-2025 00:22:42 UTC] Transaction committed successfully
+[24-Apr-2025 01:15:53 UTC] Starting verification for donation ID: 11
+[24-Apr-2025 01:15:53 UTC] Found pending donation, processing...
+[24-Apr-2025 01:15:53 UTC] Donation insert result: success
+[24-Apr-2025 01:15:53 UTC] Delete from pending result: success
+[24-Apr-2025 01:15:53 UTC] Attempting to send verification email...
+[24-Apr-2025 01:15:53 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 48
+[24-Apr-2025 01:18:03 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 54
+[24-Apr-2025 01:18:03 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 55
+[24-Apr-2025 01:18:03 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 56
+[24-Apr-2025 01:18:03 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 57
+[24-Apr-2025 01:18:03 UTC] Email send result: failed
+[24-Apr-2025 01:18:03 UTC] Transaction committed successfully
+[24-Apr-2025 01:18:30 UTC] Starting verification for donation ID: 12
+[24-Apr-2025 01:18:30 UTC] Found pending donation, processing...
+[24-Apr-2025 01:18:30 UTC] Donation insert result: success
+[24-Apr-2025 01:18:30 UTC] Delete from pending result: success
+[24-Apr-2025 01:18:30 UTC] Attempting to send verification email...
+[24-Apr-2025 01:18:30 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 48
+[24-Apr-2025 01:20:39 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 54
+[24-Apr-2025 01:20:39 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 55
+[24-Apr-2025 01:20:39 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 56
+[24-Apr-2025 01:20:39 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 57
+[24-Apr-2025 01:20:39 UTC] Email send result: failed
+[24-Apr-2025 01:20:39 UTC] Transaction committed successfully
+[24-Apr-2025 01:21:15 UTC] Starting verification for donation ID: 5
+[24-Apr-2025 01:21:15 UTC] Found pending donation, processing...
+[24-Apr-2025 01:21:15 UTC] Donation insert result: success
+[24-Apr-2025 01:21:15 UTC] Delete from pending result: success
+[24-Apr-2025 01:21:15 UTC] Attempting to send verification email...
+[24-Apr-2025 01:21:15 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 48
+[24-Apr-2025 01:23:27 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 54
+[24-Apr-2025 01:23:27 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 55
+[24-Apr-2025 01:23:27 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 56
+[24-Apr-2025 01:23:27 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 57
+[24-Apr-2025 01:23:27 UTC] Email send result: failed
+[24-Apr-2025 01:23:27 UTC] Transaction committed successfully
+[24-Apr-2025 01:32:28 UTC] Starting verification for donation ID: 6
+[24-Apr-2025 01:32:28 UTC] Found pending donation, processing...
+[24-Apr-2025 01:32:28 UTC] Donation insert result: success
+[24-Apr-2025 01:32:28 UTC] Delete from pending result: success
+[24-Apr-2025 01:32:28 UTC] Attempting to send verification email...
+[24-Apr-2025 01:32:28 UTC] PHP Fatal error:  Uncaught Error: Attempt to assign property "Host" on null in /home/zts91xzcemos/public_html/email_config.php:9
+Stack trace:
+#0 /home/zts91xzcemos/public_html/send_email.php(2): require()
+#1 /home/zts91xzcemos/public_html/verify_donation.php(175): require_once('/home/zts91xzce...')
+#2 {main}
+  thrown in /home/zts91xzcemos/public_html/email_config.php on line 9
+[24-Apr-2025 01:33:03 UTC] Starting verification for donation ID: 6
+[24-Apr-2025 01:33:03 UTC] Found pending donation, processing...
+[24-Apr-2025 01:33:03 UTC] Donation insert result: success
+[24-Apr-2025 01:33:03 UTC] Delete from pending result: success
+[24-Apr-2025 01:33:03 UTC] Attempting to send verification email...
+[24-Apr-2025 01:33:03 UTC] PHP Fatal error:  Uncaught Error: Attempt to assign property "Host" on null in /home/zts91xzcemos/public_html/email_config.php:9
+Stack trace:
+#0 /home/zts91xzcemos/public_html/send_email.php(2): require()
+#1 /home/zts91xzcemos/public_html/verify_donation.php(175): require_once('/home/zts91xzce...')
+#2 {main}
+  thrown in /home/zts91xzcemos/public_html/email_config.php on line 9
+[24-Apr-2025 01:33:05 UTC] Starting verification for donation ID: 6
+[24-Apr-2025 01:33:05 UTC] Found pending donation, processing...
+[24-Apr-2025 01:33:05 UTC] Donation insert result: success
+[24-Apr-2025 01:33:05 UTC] Delete from pending result: success
+[24-Apr-2025 01:33:05 UTC] Attempting to send verification email...
+[24-Apr-2025 01:33:05 UTC] PHP Fatal error:  Uncaught Error: Attempt to assign property "Host" on null in /home/zts91xzcemos/public_html/email_config.php:9
+Stack trace:
+#0 /home/zts91xzcemos/public_html/send_email.php(2): require()
+#1 /home/zts91xzcemos/public_html/verify_donation.php(175): require_once('/home/zts91xzce...')
+#2 {main}
+  thrown in /home/zts91xzcemos/public_html/email_config.php on line 9
+[24-Apr-2025 01:34:19 UTC] Starting verification for donation ID: 6
+[24-Apr-2025 01:34:19 UTC] Found pending donation, processing...
+[24-Apr-2025 01:34:19 UTC] Donation insert result: success
+[24-Apr-2025 01:34:19 UTC] Delete from pending result: success
+[24-Apr-2025 01:34:19 UTC] Attempting to send verification email...
+[24-Apr-2025 01:34:19 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 53
+[24-Apr-2025 01:34:25 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 55
+[24-Apr-2025 01:34:25 UTC] Email send result: success
+[24-Apr-2025 01:34:25 UTC] Transaction committed successfully
+[24-Apr-2025 01:35:04 UTC] Starting verification for donation ID: 13
+[24-Apr-2025 01:35:04 UTC] Found pending donation, processing...
+[24-Apr-2025 01:35:04 UTC] Donation insert result: success
+[24-Apr-2025 01:35:04 UTC] Delete from pending result: success
+[24-Apr-2025 01:35:04 UTC] Attempting to send verification email...
+[24-Apr-2025 01:35:04 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 53
+[24-Apr-2025 01:35:09 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 55
+[24-Apr-2025 01:35:09 UTC] Email send result: success
+[24-Apr-2025 01:35:09 UTC] Transaction committed successfully
+[24-Apr-2025 01:37:14 UTC] Starting verification for donation ID: 14
+[24-Apr-2025 01:37:14 UTC] Found pending donation, processing...
+[24-Apr-2025 01:37:14 UTC] Donation insert result: success
+[24-Apr-2025 01:37:14 UTC] Delete from pending result: success
+[24-Apr-2025 01:37:14 UTC] Attempting to send verification email...
+[24-Apr-2025 01:37:14 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 53
+[24-Apr-2025 01:37:19 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 55
+[24-Apr-2025 01:37:19 UTC] Email send result: success
+[24-Apr-2025 01:37:19 UTC] Transaction committed successfully
+[24-Apr-2025 01:41:28 UTC] Starting verification for donation ID: 15
+[24-Apr-2025 01:41:28 UTC] Found pending donation, processing...
+[24-Apr-2025 01:41:28 UTC] Donation insert result: success
+[24-Apr-2025 01:41:28 UTC] Delete from pending result: success
+[24-Apr-2025 01:41:28 UTC] Attempting to send verification email...
+[24-Apr-2025 01:41:28 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 53
+[24-Apr-2025 01:41:33 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 55
+[24-Apr-2025 01:41:33 UTC] Email send result: success
+[24-Apr-2025 01:41:33 UTC] Transaction committed successfully
+[26-Apr-2025 18:33:09 UTC] Starting verification for donation ID: 16
+[26-Apr-2025 18:33:09 UTC] Found pending donation, processing...
+[26-Apr-2025 18:33:09 UTC] Donation insert result: success
+[26-Apr-2025 18:33:09 UTC] Delete from pending result: success
+[26-Apr-2025 18:33:09 UTC] Attempting to send verification email...
+[26-Apr-2025 18:33:09 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 53
+[26-Apr-2025 18:33:14 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 55
+[26-Apr-2025 18:33:14 UTC] Email send result: success
+[26-Apr-2025 18:33:14 UTC] Transaction committed successfully
+[27-Apr-2025 18:21:18 UTC] Starting verification for donation ID: 17
+[27-Apr-2025 18:21:18 UTC] Found pending donation, processing...
+[27-Apr-2025 18:21:18 UTC] Donation insert result: success
+[27-Apr-2025 18:21:18 UTC] Delete from pending result: success
+[27-Apr-2025 18:21:18 UTC] Attempting to send verification email...
+[27-Apr-2025 18:21:19 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 53
+[27-Apr-2025 18:21:23 UTC] PHP Warning:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/email_debug.log): Failed to open stream: No such file or directory in /home/zts91xzcemos/public_html/send_email.php on line 55
+[27-Apr-2025 18:21:23 UTC] Email send result: success
+[27-Apr-2025 18:21:23 UTC] Transaction committed successfully
+[01-May-2025 08:26:46 UTC] PHP Warning:  Undefined array key "firstname" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 26
+[01-May-2025 08:26:46 UTC] PHP Warning:  Undefined array key "lastname" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 27
+[01-May-2025 08:26:46 UTC] PHP Warning:  Undefined array key "email" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 28
+[01-May-2025 08:26:46 UTC] PHP Warning:  Undefined array key "password" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 29
+[01-May-2025 08:26:46 UTC] PHP Warning:  Undefined array key "recoverytext" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 30
+[01-May-2025 08:26:46 UTC] PHP Warning:  Undefined array key "city" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 31
+[01-May-2025 08:26:46 UTC] PHP Warning:  Undefined array key "state" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 32
+[01-May-2025 08:26:46 UTC] PHP Warning:  Undefined array key "country" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 33
+[01-May-2025 08:26:46 UTC] PHP Warning:  Undefined array key "dob" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 34
+[01-May-2025 08:26:46 UTC] PHP Warning:  Undefined array key "organization" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 35
+[01-May-2025 08:26:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '' for key 'PRIMARY' in /home/zts91xzcemos/public_html/volunteersubmit.php:43
+Stack trace:
+#0 /home/zts91xzcemos/public_html/volunteersubmit.php(43): mysqli_query()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/volunteersubmit.php on line 43
+[01-May-2025 09:35:04 UTC] PHP Warning:  Undefined array key "firstname" in /home/zts91xzcemos/public_html/submit_form.php on line 22
+[01-May-2025 09:35:04 UTC] PHP Warning:  Undefined array key "lastname" in /home/zts91xzcemos/public_html/submit_form.php on line 23
+[01-May-2025 09:35:04 UTC] PHP Warning:  Undefined array key "recoverytext" in /home/zts91xzcemos/public_html/submit_form.php on line 24
+[01-May-2025 09:35:04 UTC] PHP Warning:  Undefined array key "email" in /home/zts91xzcemos/public_html/submit_form.php on line 25
+[01-May-2025 09:35:04 UTC] PHP Warning:  Undefined array key "city" in /home/zts91xzcemos/public_html/submit_form.php on line 26
+[01-May-2025 09:35:04 UTC] PHP Warning:  Undefined array key "state" in /home/zts91xzcemos/public_html/submit_form.php on line 27
+[01-May-2025 09:35:04 UTC] PHP Warning:  Undefined array key "country" in /home/zts91xzcemos/public_html/submit_form.php on line 28
+[01-May-2025 09:35:04 UTC] PHP Warning:  Undefined array key "password" in /home/zts91xzcemos/public_html/submit_form.php on line 29
+[16-May-2025 23:02:50 UTC] PHP Warning:  Undefined array key "firstname" in /home/zts91xzcemos/public_html/submit_form.php on line 22
+[16-May-2025 23:02:50 UTC] PHP Warning:  Undefined array key "lastname" in /home/zts91xzcemos/public_html/submit_form.php on line 23
+[16-May-2025 23:02:50 UTC] PHP Warning:  Undefined array key "recoverytext" in /home/zts91xzcemos/public_html/submit_form.php on line 24
+[16-May-2025 23:02:50 UTC] PHP Warning:  Undefined array key "email" in /home/zts91xzcemos/public_html/submit_form.php on line 25
+[16-May-2025 23:02:50 UTC] PHP Warning:  Undefined array key "city" in /home/zts91xzcemos/public_html/submit_form.php on line 26
+[16-May-2025 23:02:50 UTC] PHP Warning:  Undefined array key "state" in /home/zts91xzcemos/public_html/submit_form.php on line 27
+[16-May-2025 23:02:50 UTC] PHP Warning:  Undefined array key "country" in /home/zts91xzcemos/public_html/submit_form.php on line 28
+[16-May-2025 23:02:50 UTC] PHP Warning:  Undefined array key "password" in /home/zts91xzcemos/public_html/submit_form.php on line 29
+[17-May-2025 01:19:10 UTC] PHP Warning:  Undefined array key "firstname" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 26
+[17-May-2025 01:19:10 UTC] PHP Warning:  Undefined array key "lastname" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 27
+[17-May-2025 01:19:10 UTC] PHP Warning:  Undefined array key "email" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 28
+[17-May-2025 01:19:10 UTC] PHP Warning:  Undefined array key "password" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 29
+[17-May-2025 01:19:10 UTC] PHP Warning:  Undefined array key "recoverytext" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 30
+[17-May-2025 01:19:10 UTC] PHP Warning:  Undefined array key "city" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 31
+[17-May-2025 01:19:10 UTC] PHP Warning:  Undefined array key "state" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 32
+[17-May-2025 01:19:10 UTC] PHP Warning:  Undefined array key "country" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 33
+[17-May-2025 01:19:10 UTC] PHP Warning:  Undefined array key "dob" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 34
+[17-May-2025 01:19:10 UTC] PHP Warning:  Undefined array key "organization" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 35
+[17-May-2025 01:19:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '' for key 'PRIMARY' in /home/zts91xzcemos/public_html/volunteersubmit.php:43
+Stack trace:
+#0 /home/zts91xzcemos/public_html/volunteersubmit.php(43): mysqli_query()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/volunteersubmit.php on line 43
+[26-May-2025 16:02:31 UTC] PHP Warning:  Undefined array key "firstname" in /home/zts91xzcemos/public_html/submit_form.php on line 22
+[26-May-2025 16:02:31 UTC] PHP Warning:  Undefined array key "lastname" in /home/zts91xzcemos/public_html/submit_form.php on line 23
+[26-May-2025 16:02:31 UTC] PHP Warning:  Undefined array key "recoverytext" in /home/zts91xzcemos/public_html/submit_form.php on line 24
+[26-May-2025 16:02:31 UTC] PHP Warning:  Undefined array key "email" in /home/zts91xzcemos/public_html/submit_form.php on line 25
+[26-May-2025 16:02:31 UTC] PHP Warning:  Undefined array key "city" in /home/zts91xzcemos/public_html/submit_form.php on line 26
+[26-May-2025 16:02:31 UTC] PHP Warning:  Undefined array key "state" in /home/zts91xzcemos/public_html/submit_form.php on line 27
+[26-May-2025 16:02:31 UTC] PHP Warning:  Undefined array key "country" in /home/zts91xzcemos/public_html/submit_form.php on line 28
+[26-May-2025 16:02:31 UTC] PHP Warning:  Undefined array key "password" in /home/zts91xzcemos/public_html/submit_form.php on line 29
+[26-May-2025 21:33:33 UTC] PHP Warning:  Undefined array key "firstname" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 26
+[26-May-2025 21:33:33 UTC] PHP Warning:  Undefined array key "lastname" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 27
+[26-May-2025 21:33:33 UTC] PHP Warning:  Undefined array key "email" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 28
+[26-May-2025 21:33:33 UTC] PHP Warning:  Undefined array key "password" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 29
+[26-May-2025 21:33:33 UTC] PHP Warning:  Undefined array key "recoverytext" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 30
+[26-May-2025 21:33:33 UTC] PHP Warning:  Undefined array key "city" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 31
+[26-May-2025 21:33:33 UTC] PHP Warning:  Undefined array key "state" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 32
+[26-May-2025 21:33:33 UTC] PHP Warning:  Undefined array key "country" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 33
+[26-May-2025 21:33:33 UTC] PHP Warning:  Undefined array key "dob" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 34
+[26-May-2025 21:33:33 UTC] PHP Warning:  Undefined array key "organization" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 35
+[26-May-2025 21:33:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '' for key 'PRIMARY' in /home/zts91xzcemos/public_html/volunteersubmit.php:43
+Stack trace:
+#0 /home/zts91xzcemos/public_html/volunteersubmit.php(43): mysqli_query()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/volunteersubmit.php on line 43
+[28-May-2025 01:49:42 UTC] PHP Warning:  Undefined array key "firstname" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 26
+[28-May-2025 01:49:42 UTC] PHP Warning:  Undefined array key "lastname" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 27
+[28-May-2025 01:49:42 UTC] PHP Warning:  Undefined array key "email" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 28
+[28-May-2025 01:49:42 UTC] PHP Warning:  Undefined array key "password" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 29
+[28-May-2025 01:49:42 UTC] PHP Warning:  Undefined array key "recoverytext" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 30
+[28-May-2025 01:49:42 UTC] PHP Warning:  Undefined array key "city" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 31
+[28-May-2025 01:49:42 UTC] PHP Warning:  Undefined array key "state" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 32
+[28-May-2025 01:49:42 UTC] PHP Warning:  Undefined array key "country" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 33
+[28-May-2025 01:49:42 UTC] PHP Warning:  Undefined array key "dob" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 34
+[28-May-2025 01:49:42 UTC] PHP Warning:  Undefined array key "organization" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 35
+[28-May-2025 01:49:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '' for key 'PRIMARY' in /home/zts91xzcemos/public_html/volunteersubmit.php:43
+Stack trace:
+#0 /home/zts91xzcemos/public_html/volunteersubmit.php(43): mysqli_query()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/volunteersubmit.php on line 43
+[03-Jun-2025 16:27:32 UTC] PHP Warning:  Undefined array key "firstname" in /home/zts91xzcemos/public_html/submit_form.php on line 22
+[03-Jun-2025 16:27:32 UTC] PHP Warning:  Undefined array key "lastname" in /home/zts91xzcemos/public_html/submit_form.php on line 23
+[03-Jun-2025 16:27:32 UTC] PHP Warning:  Undefined array key "recoverytext" in /home/zts91xzcemos/public_html/submit_form.php on line 24
+[03-Jun-2025 16:27:32 UTC] PHP Warning:  Undefined array key "email" in /home/zts91xzcemos/public_html/submit_form.php on line 25
+[03-Jun-2025 16:27:32 UTC] PHP Warning:  Undefined array key "city" in /home/zts91xzcemos/public_html/submit_form.php on line 26
+[03-Jun-2025 16:27:32 UTC] PHP Warning:  Undefined array key "state" in /home/zts91xzcemos/public_html/submit_form.php on line 27
+[03-Jun-2025 16:27:32 UTC] PHP Warning:  Undefined array key "country" in /home/zts91xzcemos/public_html/submit_form.php on line 28
+[03-Jun-2025 16:27:32 UTC] PHP Warning:  Undefined array key "password" in /home/zts91xzcemos/public_html/submit_form.php on line 29
+[04-Jun-2025 04:29:18 UTC] PHP Warning:  Undefined array key "firstname" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 26
+[04-Jun-2025 04:29:18 UTC] PHP Warning:  Undefined array key "lastname" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 27
+[04-Jun-2025 04:29:18 UTC] PHP Warning:  Undefined array key "email" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 28
+[04-Jun-2025 04:29:18 UTC] PHP Warning:  Undefined array key "password" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 29
+[04-Jun-2025 04:29:18 UTC] PHP Warning:  Undefined array key "recoverytext" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 30
+[04-Jun-2025 04:29:18 UTC] PHP Warning:  Undefined array key "city" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 31
+[04-Jun-2025 04:29:18 UTC] PHP Warning:  Undefined array key "state" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 32
+[04-Jun-2025 04:29:18 UTC] PHP Warning:  Undefined array key "country" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 33
+[04-Jun-2025 04:29:18 UTC] PHP Warning:  Undefined array key "dob" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 34
+[04-Jun-2025 04:29:18 UTC] PHP Warning:  Undefined array key "organization" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 35
+[04-Jun-2025 04:29:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '' for key 'PRIMARY' in /home/zts91xzcemos/public_html/volunteersubmit.php:43
+Stack trace:
+#0 /home/zts91xzcemos/public_html/volunteersubmit.php(43): mysqli_query()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/volunteersubmit.php on line 43
+[11-Jun-2025 23:28:53 UTC] PHP Warning:  Undefined array key "firstname" in /home/zts91xzcemos/public_html/submit_form.php on line 22
+[11-Jun-2025 23:28:53 UTC] PHP Warning:  Undefined array key "lastname" in /home/zts91xzcemos/public_html/submit_form.php on line 23
+[11-Jun-2025 23:28:53 UTC] PHP Warning:  Undefined array key "recoverytext" in /home/zts91xzcemos/public_html/submit_form.php on line 24
+[11-Jun-2025 23:28:53 UTC] PHP Warning:  Undefined array key "email" in /home/zts91xzcemos/public_html/submit_form.php on line 25
+[11-Jun-2025 23:28:53 UTC] PHP Warning:  Undefined array key "city" in /home/zts91xzcemos/public_html/submit_form.php on line 26
+[11-Jun-2025 23:28:53 UTC] PHP Warning:  Undefined array key "state" in /home/zts91xzcemos/public_html/submit_form.php on line 27
+[11-Jun-2025 23:28:53 UTC] PHP Warning:  Undefined array key "country" in /home/zts91xzcemos/public_html/submit_form.php on line 28
+[11-Jun-2025 23:28:53 UTC] PHP Warning:  Undefined array key "password" in /home/zts91xzcemos/public_html/submit_form.php on line 29
+[12-Jun-2025 13:33:09 UTC] PHP Warning:  Undefined array key "firstname" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 26
+[12-Jun-2025 13:33:09 UTC] PHP Warning:  Undefined array key "lastname" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 27
+[12-Jun-2025 13:33:09 UTC] PHP Warning:  Undefined array key "email" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 28
+[12-Jun-2025 13:33:09 UTC] PHP Warning:  Undefined array key "password" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 29
+[12-Jun-2025 13:33:09 UTC] PHP Warning:  Undefined array key "recoverytext" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 30
+[12-Jun-2025 13:33:09 UTC] PHP Warning:  Undefined array key "city" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 31
+[12-Jun-2025 13:33:09 UTC] PHP Warning:  Undefined array key "state" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 32
+[12-Jun-2025 13:33:09 UTC] PHP Warning:  Undefined array key "country" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 33
+[12-Jun-2025 13:33:09 UTC] PHP Warning:  Undefined array key "dob" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 34
+[12-Jun-2025 13:33:09 UTC] PHP Warning:  Undefined array key "organization" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 35
+[12-Jun-2025 13:33:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '' for key 'PRIMARY' in /home/zts91xzcemos/public_html/volunteersubmit.php:43
+Stack trace:
+#0 /home/zts91xzcemos/public_html/volunteersubmit.php(43): mysqli_query()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/volunteersubmit.php on line 43
+[15-Jun-2025 16:37:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/zts91xzcemos/public_html/db_connect.php:8
+Stack trace:
+#0 /home/zts91xzcemos/public_html/db_connect.php(8): mysqli->__construct()
+#1 /home/zts91xzcemos/public_html/register_organization.php(2): require_once('/home/zts91xzce...')
+#2 {main}
+  thrown in /home/zts91xzcemos/public_html/db_connect.php on line 8
+[15-Jun-2025 16:39:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/zts91xzcemos/public_html/db_connect.php:8
+Stack trace:
+#0 /home/zts91xzcemos/public_html/db_connect.php(8): mysqli->__construct()
+#1 /home/zts91xzcemos/public_html/register_organization.php(2): require_once('/home/zts91xzce...')
+#2 {main}
+  thrown in /home/zts91xzcemos/public_html/db_connect.php on line 8
+[15-Jun-2025 16:39:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/zts91xzcemos/public_html/db_connect.php:8
+Stack trace:
+#0 /home/zts91xzcemos/public_html/db_connect.php(8): mysqli->__construct()
+#1 /home/zts91xzcemos/public_html/register_organization.php(2): require_once('/home/zts91xzce...')
+#2 {main}
+  thrown in /home/zts91xzcemos/public_html/db_connect.php on line 8
+[15-Jun-2025 16:40:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/zts91xzcemos/public_html/db_connect.php:8
+Stack trace:
+#0 /home/zts91xzcemos/public_html/db_connect.php(8): mysqli->__construct()
+#1 /home/zts91xzcemos/public_html/register_organization.php(5): require_once('/home/zts91xzce...')
+#2 {main}
+  thrown in /home/zts91xzcemos/public_html/db_connect.php on line 8
+[15-Jun-2025 16:56:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'v.id' in 'SELECT' in /home/zts91xzcemos/public_html/organization_dashboard.php:19
+Stack trace:
+#0 /home/zts91xzcemos/public_html/organization_dashboard.php(19): mysqli->prepare()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/organization_dashboard.php on line 19
+[15-Jun-2025 16:56:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'v.id' in 'SELECT' in /home/zts91xzcemos/public_html/organization_dashboard.php:19
+Stack trace:
+#0 /home/zts91xzcemos/public_html/organization_dashboard.php(19): mysqli->prepare()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/organization_dashboard.php on line 19
+[15-Jun-2025 16:56:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'v.id' in 'SELECT' in /home/zts91xzcemos/public_html/organization_dashboard.php:19
+Stack trace:
+#0 /home/zts91xzcemos/public_html/organization_dashboard.php(19): mysqli->prepare()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/organization_dashboard.php on line 19
+[15-Jun-2025 16:58:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'v.id' in 'SELECT' in /home/zts91xzcemos/public_html/organization_dashboard.php:30
+Stack trace:
+#0 /home/zts91xzcemos/public_html/organization_dashboard.php(30): mysqli->prepare()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/organization_dashboard.php on line 30
+[15-Jun-2025 17:01:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'organization_id' in 'WHERE' in /home/zts91xzcemos/public_html/organization_dashboard.php:30
+Stack trace:
+#0 /home/zts91xzcemos/public_html/organization_dashboard.php(30): mysqli->prepare()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/organization_dashboard.php on line 30
+[15-Jun-2025 17:01:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'organization_id' in 'WHERE' in /home/zts91xzcemos/public_html/organization_dashboard.php:30
+Stack trace:
+#0 /home/zts91xzcemos/public_html/organization_dashboard.php(30): mysqli->prepare()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/organization_dashboard.php on line 30
+[15-Jun-2025 17:01:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'organization_id' in 'WHERE' in /home/zts91xzcemos/public_html/organization_dashboard.php:30
+Stack trace:
+#0 /home/zts91xzcemos/public_html/organization_dashboard.php(30): mysqli->prepare()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/organization_dashboard.php on line 30
+[15-Jun-2025 17:01:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'organization_id' in 'WHERE' in /home/zts91xzcemos/public_html/organization_dashboard.php:30
+Stack trace:
+#0 /home/zts91xzcemos/public_html/organization_dashboard.php(30): mysqli->prepare()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/organization_dashboard.php on line 30
+[15-Jun-2025 17:01:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'organization_id' in 'WHERE' in /home/zts91xzcemos/public_html/organization_dashboard.php:30
+Stack trace:
+#0 /home/zts91xzcemos/public_html/organization_dashboard.php(30): mysqli->prepare()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/organization_dashboard.php on line 30
+[15-Jun-2025 17:01:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'organization_id' in 'WHERE' in /home/zts91xzcemos/public_html/organization_dashboard.php:30
+Stack trace:
+#0 /home/zts91xzcemos/public_html/organization_dashboard.php(30): mysqli->prepare()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/organization_dashboard.php on line 30
+[15-Jun-2025 17:01:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'organization_id' in 'WHERE' in /home/zts91xzcemos/public_html/organization_dashboard.php:30
+Stack trace:
+#0 /home/zts91xzcemos/public_html/organization_dashboard.php(30): mysqli->prepare()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/organization_dashboard.php on line 30
+[15-Jun-2025 17:01:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'organization_id' in 'WHERE' in /home/zts91xzcemos/public_html/organization_dashboard.php:30
+Stack trace:
+#0 /home/zts91xzcemos/public_html/organization_dashboard.php(30): mysqli->prepare()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/organization_dashboard.php on line 30
+[15-Jun-2025 17:01:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'organization_id' in 'WHERE' in /home/zts91xzcemos/public_html/organization_dashboard.php:30
+Stack trace:
+#0 /home/zts91xzcemos/public_html/organization_dashboard.php(30): mysqli->prepare()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/organization_dashboard.php on line 30
+[15-Jun-2025 17:01:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'organization_id' in 'WHERE' in /home/zts91xzcemos/public_html/organization_dashboard.php:30
+Stack trace:
+#0 /home/zts91xzcemos/public_html/organization_dashboard.php(30): mysqli->prepare()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/organization_dashboard.php on line 30
+[15-Jun-2025 17:01:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'organization_id' in 'WHERE' in /home/zts91xzcemos/public_html/organization_dashboard.php:30
+Stack trace:
+#0 /home/zts91xzcemos/public_html/organization_dashboard.php(30): mysqli->prepare()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/organization_dashboard.php on line 30
+[15-Jun-2025 17:01:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'organization_id' in 'WHERE' in /home/zts91xzcemos/public_html/organization_dashboard.php:30
+Stack trace:
+#0 /home/zts91xzcemos/public_html/organization_dashboard.php(30): mysqli->prepare()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/organization_dashboard.php on line 30
+[15-Jun-2025 17:01:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'organization_id' in 'WHERE' in /home/zts91xzcemos/public_html/organization_dashboard.php:30
+Stack trace:
+#0 /home/zts91xzcemos/public_html/organization_dashboard.php(30): mysqli->prepare()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/organization_dashboard.php on line 30
+[15-Jun-2025 17:01:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'organization_id' in 'WHERE' in /home/zts91xzcemos/public_html/organization_dashboard.php:30
+Stack trace:
+#0 /home/zts91xzcemos/public_html/organization_dashboard.php(30): mysqli->prepare()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/organization_dashboard.php on line 30
+[15-Jun-2025 17:01:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'organization_id' in 'WHERE' in /home/zts91xzcemos/public_html/organization_dashboard.php:30
+Stack trace:
+#0 /home/zts91xzcemos/public_html/organization_dashboard.php(30): mysqli->prepare()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/organization_dashboard.php on line 30
+[15-Jun-2025 17:01:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'organization_id' in 'WHERE' in /home/zts91xzcemos/public_html/organization_dashboard.php:30
+Stack trace:
+#0 /home/zts91xzcemos/public_html/organization_dashboard.php(30): mysqli->prepare()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/organization_dashboard.php on line 30
+[15-Jun-2025 17:02:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'organization_id' in 'WHERE' in /home/zts91xzcemos/public_html/organization_dashboard.php:30
+Stack trace:
+#0 /home/zts91xzcemos/public_html/organization_dashboard.php(30): mysqli->prepare()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/organization_dashboard.php on line 30
+[15-Jun-2025 17:02:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'organization_id' in 'WHERE' in /home/zts91xzcemos/public_html/organization_dashboard.php:30
+Stack trace:
+#0 /home/zts91xzcemos/public_html/organization_dashboard.php(30): mysqli->prepare()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/organization_dashboard.php on line 30
+[15-Jun-2025 17:02:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'organization_id' in 'WHERE' in /home/zts91xzcemos/public_html/organization_dashboard.php:30
+Stack trace:
+#0 /home/zts91xzcemos/public_html/organization_dashboard.php(30): mysqli->prepare()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/organization_dashboard.php on line 30
+[15-Jun-2025 17:41:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'Tester@gmail.com' for key 'PRIMARY' in /home/zts91xzcemos/public_html/volunteersubmit.php:43
+Stack trace:
+#0 /home/zts91xzcemos/public_html/volunteersubmit.php(43): mysqli_query()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/volunteersubmit.php on line 43
+[15-Jun-2025 17:45:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/zts91xzcemos/public_html/admin_dashboard.php:13
+Stack trace:
+#0 /home/zts91xzcemos/public_html/admin_dashboard.php(13): mysqli_connect()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/admin_dashboard.php on line 13
+[15-Jun-2025 17:45:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/zts91xzcemos/public_html/admin_dashboard.php:13
+Stack trace:
+#0 /home/zts91xzcemos/public_html/admin_dashboard.php(13): mysqli_connect()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/admin_dashboard.php on line 13
+[15-Jun-2025 18:32:16 UTC] Attempting login for email: Tester@gmail.com
+[15-Jun-2025 18:32:16 UTC] Stored password hash: test
+[15-Jun-2025 18:32:16 UTC] PHP Warning:  Undefined array key "id" in /home/zts91xzcemos/public_html/signin_volunteer.php on line 25
+[15-Jun-2025 18:32:22 UTC] Attempting login for email: Tester@gmail.com
+[15-Jun-2025 18:32:22 UTC] Stored password hash: test
+[15-Jun-2025 18:32:22 UTC] PHP Warning:  Undefined array key "id" in /home/zts91xzcemos/public_html/signin_volunteer.php on line 25
+[15-Jun-2025 18:33:07 UTC] Request method: GET
+[15-Jun-2025 18:33:13 UTC] Request method: POST
+[15-Jun-2025 18:33:13 UTC] POST data received: Array
+(
+    [email] => Tester@gmail.com
+    [password] => test
+)
+
+[15-Jun-2025 18:33:13 UTC] Attempting login for email: Tester@gmail.com
+[15-Jun-2025 18:33:13 UTC] Stored password hash: test
+[15-Jun-2025 18:33:13 UTC] PHP Warning:  Undefined array key "id" in /home/zts91xzcemos/public_html/signin_volunteer.php on line 29
+[15-Jun-2025 18:33:13 UTC] Login successful, redirecting to volunteer_hours.php
+[15-Jun-2025 18:33:13 UTC] Request method: GET
+[15-Jun-2025 18:33:42 UTC] Request method: GET
+[15-Jun-2025 18:33:49 UTC] Request method: POST
+[15-Jun-2025 18:33:49 UTC] POST data received: Array
+(
+    [email] => test@gmail.com
+    [password] => test
+)
+
+[15-Jun-2025 18:33:49 UTC] Attempting login for email: test@gmail.com
+[15-Jun-2025 18:33:49 UTC] Stored password hash: test
+[15-Jun-2025 18:33:49 UTC] PHP Warning:  Undefined array key "id" in /home/zts91xzcemos/public_html/signin_volunteer.php on line 29
+[15-Jun-2025 18:33:49 UTC] Login successful, redirecting to volunteer_hours.php
+[15-Jun-2025 18:33:49 UTC] Request method: GET
+[15-Jun-2025 18:35:58 UTC] Request method: GET
+[15-Jun-2025 18:36:03 UTC] Request method: POST
+[15-Jun-2025 18:36:03 UTC] POST data received: Array
+(
+    [email] => test@gmail.com
+    [password] => test
+)
+
+[15-Jun-2025 18:36:03 UTC] Attempting login for email: test@gmail.com
+[15-Jun-2025 18:36:03 UTC] Stored password hash: test
+[15-Jun-2025 18:36:03 UTC] PHP Warning:  Undefined array key "id" in /home/zts91xzcemos/public_html/signin_volunteer.php on line 29
+[15-Jun-2025 18:36:03 UTC] Login successful, redirecting to volunteer_hours.php
+[15-Jun-2025 18:36:03 UTC] Request method: GET
+[15-Jun-2025 18:39:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/zts91xzcemos/public_html/volunteerlogin.php:12
+Stack trace:
+#0 /home/zts91xzcemos/public_html/volunteerlogin.php(12): mysqli->__construct()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/volunteerlogin.php on line 12
+[15-Jun-2025 18:43:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'SELECT' in /home/zts91xzcemos/public_html/volunteerlogin.php:29
+Stack trace:
+#0 /home/zts91xzcemos/public_html/volunteerlogin.php(29): mysqli->prepare()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/volunteerlogin.php on line 29
+[15-Jun-2025 18:43:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'volunteer_id' in 'SELECT' in /home/zts91xzcemos/public_html/volunteerlogin.php:29
+Stack trace:
+#0 /home/zts91xzcemos/public_html/volunteerlogin.php(29): mysqli->prepare()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/volunteerlogin.php on line 29
+[15-Jun-2025 18:44:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'volunteer_id' in 'SELECT' in /home/zts91xzcemos/public_html/volunteerlogin.php:29
+Stack trace:
+#0 /home/zts91xzcemos/public_html/volunteerlogin.php(29): mysqli->prepare()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/volunteerlogin.php on line 29
+[15-Jun-2025 18:55:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'rejuvenateganga.event_registered' doesn't exist in /home/zts91xzcemos/public_html/signin_volunteer.php:36
+Stack trace:
+#0 /home/zts91xzcemos/public_html/signin_volunteer.php(36): mysqli->prepare()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/signin_volunteer.php on line 36
+[15-Jun-2025 18:55:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'rejuvenateganga.event_registered' doesn't exist in /home/zts91xzcemos/public_html/signin_volunteer.php:36
+Stack trace:
+#0 /home/zts91xzcemos/public_html/signin_volunteer.php(36): mysqli->prepare()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/signin_volunteer.php on line 36
+[15-Jun-2025 19:26:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/zts91xzcemos/public_html/volunteerlogin.php:12
+Stack trace:
+#0 /home/zts91xzcemos/public_html/volunteerlogin.php(12): mysqli->__construct()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/volunteerlogin.php on line 12
+[25-Jun-2025 00:44:15 UTC] PHP Warning:  Undefined variable $row in /home/zts91xzcemos/public_html/login_organization.php on line 22
+[25-Jun-2025 00:44:15 UTC] PHP Warning:  Trying to access array offset on null in /home/zts91xzcemos/public_html/login_organization.php on line 22
+[25-Jun-2025 00:44:15 UTC] PHP Warning:  Undefined variable $row in /home/zts91xzcemos/public_html/login_organization.php on line 23
+[25-Jun-2025 00:44:15 UTC] PHP Warning:  Trying to access array offset on null in /home/zts91xzcemos/public_html/login_organization.php on line 23
+[25-Jun-2025 00:44:15 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/zts91xzcemos/public_html/organization_dashboard.php on line 341
+[25-Jun-2025 00:45:51 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/zts91xzcemos/public_html/organization_dashboard.php on line 341
+[25-Jun-2025 01:02:17 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/zts91xzcemos/public_html/organization_dashboard.php on line 341
+[25-Jun-2025 01:02:56 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/zts91xzcemos/public_html/organization_dashboard.php on line 341
+[25-Jun-2025 01:02:57 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/zts91xzcemos/public_html/organization_dashboard.php on line 341
+[25-Jun-2025 01:02:58 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/zts91xzcemos/public_html/organization_dashboard.php on line 341
+[25-Jun-2025 01:02:59 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/zts91xzcemos/public_html/organization_dashboard.php on line 341
+[25-Jun-2025 01:03:03 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/zts91xzcemos/public_html/organization_dashboard.php on line 341
+[25-Jun-2025 01:03:04 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/zts91xzcemos/public_html/organization_dashboard.php on line 341
+[25-Jun-2025 01:03:15 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/zts91xzcemos/public_html/organization_dashboard.php on line 341
+[25-Jun-2025 01:03:15 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/zts91xzcemos/public_html/organization_dashboard.php on line 341
+[25-Jun-2025 01:03:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/zts91xzcemos/public_html/organization_dashboard.php on line 341
+[25-Jun-2025 01:03:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/zts91xzcemos/public_html/organization_dashboard.php on line 341
+[25-Jun-2025 01:03:17 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/zts91xzcemos/public_html/organization_dashboard.php on line 341
+[25-Jun-2025 01:03:17 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/zts91xzcemos/public_html/organization_dashboard.php on line 341
+[25-Jun-2025 01:03:17 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/zts91xzcemos/public_html/organization_dashboard.php on line 341
+[25-Jun-2025 01:03:22 UTC] PHP Warning:  Undefined variable $row in /home/zts91xzcemos/public_html/login_organization.php on line 22
+[25-Jun-2025 01:03:22 UTC] PHP Warning:  Trying to access array offset on null in /home/zts91xzcemos/public_html/login_organization.php on line 22
+[25-Jun-2025 01:03:22 UTC] PHP Warning:  Undefined variable $row in /home/zts91xzcemos/public_html/login_organization.php on line 23
+[25-Jun-2025 01:03:22 UTC] PHP Warning:  Trying to access array offset on null in /home/zts91xzcemos/public_html/login_organization.php on line 23
+[25-Jun-2025 01:03:22 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/zts91xzcemos/public_html/organization_dashboard.php on line 341
+[25-Jun-2025 01:04:29 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/zts91xzcemos/public_html/organization_dashboard.php on line 341
+[25-Jun-2025 01:04:29 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/zts91xzcemos/public_html/organization_dashboard.php on line 341
+[25-Jun-2025 01:04:30 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/zts91xzcemos/public_html/organization_dashboard.php on line 341
+[25-Jun-2025 01:04:52 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/zts91xzcemos/public_html/organization_dashboard.php on line 341
+[25-Jun-2025 01:04:53 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/zts91xzcemos/public_html/organization_dashboard.php on line 341
+[25-Jun-2025 01:04:53 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/zts91xzcemos/public_html/organization_dashboard.php on line 341
+[25-Jun-2025 01:14:14 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/zts91xzcemos/public_html/organization_dashboard.php on line 341
+[25-Jun-2025 01:14:14 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/zts91xzcemos/public_html/organization_dashboard.php on line 341
+[25-Jun-2025 01:14:14 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/zts91xzcemos/public_html/organization_dashboard.php on line 341
+[25-Jun-2025 01:14:15 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/zts91xzcemos/public_html/organization_dashboard.php on line 341
+[25-Jun-2025 01:14:33 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/zts91xzcemos/public_html/organization_dashboard.php on line 341
+[25-Jun-2025 01:14:34 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/zts91xzcemos/public_html/organization_dashboard.php on line 341
+[25-Jun-2025 01:14:35 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/zts91xzcemos/public_html/organization_dashboard.php on line 341
+[25-Jun-2025 01:14:37 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/zts91xzcemos/public_html/organization_dashboard.php on line 341
+[25-Jun-2025 01:14:37 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/zts91xzcemos/public_html/organization_dashboard.php on line 341
+[25-Jun-2025 01:14:38 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/zts91xzcemos/public_html/organization_dashboard.php on line 341
+[01-Jul-2025 22:10:09 UTC] PHP Warning:  Undefined array key "firstname" in /home/zts91xzcemos/public_html/submit_form.php on line 22
+[01-Jul-2025 22:10:09 UTC] PHP Warning:  Undefined array key "lastname" in /home/zts91xzcemos/public_html/submit_form.php on line 23
+[01-Jul-2025 22:10:09 UTC] PHP Warning:  Undefined array key "recoverytext" in /home/zts91xzcemos/public_html/submit_form.php on line 24
+[01-Jul-2025 22:10:09 UTC] PHP Warning:  Undefined array key "email" in /home/zts91xzcemos/public_html/submit_form.php on line 25
+[01-Jul-2025 22:10:09 UTC] PHP Warning:  Undefined array key "city" in /home/zts91xzcemos/public_html/submit_form.php on line 26
+[01-Jul-2025 22:10:09 UTC] PHP Warning:  Undefined array key "state" in /home/zts91xzcemos/public_html/submit_form.php on line 27
+[01-Jul-2025 22:10:09 UTC] PHP Warning:  Undefined array key "country" in /home/zts91xzcemos/public_html/submit_form.php on line 28
+[01-Jul-2025 22:10:09 UTC] PHP Warning:  Undefined array key "password" in /home/zts91xzcemos/public_html/submit_form.php on line 29
+[01-Jul-2025 22:53:01 UTC] PHP Warning:  Undefined array key "firstname" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 26
+[01-Jul-2025 22:53:01 UTC] PHP Warning:  Undefined array key "lastname" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 27
+[01-Jul-2025 22:53:01 UTC] PHP Warning:  Undefined array key "email" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 28
+[01-Jul-2025 22:53:01 UTC] PHP Warning:  Undefined array key "password" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 29
+[01-Jul-2025 22:53:01 UTC] PHP Warning:  Undefined array key "recoverytext" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 30
+[01-Jul-2025 22:53:01 UTC] PHP Warning:  Undefined array key "city" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 31
+[01-Jul-2025 22:53:01 UTC] PHP Warning:  Undefined array key "state" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 32
+[01-Jul-2025 22:53:01 UTC] PHP Warning:  Undefined array key "country" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 33
+[01-Jul-2025 22:53:01 UTC] PHP Warning:  Undefined array key "dob" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 34
+[01-Jul-2025 22:53:01 UTC] PHP Warning:  Undefined array key "organization" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 35
+[17-Jul-2025 02:31:57 UTC] PHP Warning:  Undefined variable $row in /home/zts91xzcemos/public_html/login_organization.php on line 22
+[17-Jul-2025 02:31:57 UTC] PHP Warning:  Trying to access array offset on null in /home/zts91xzcemos/public_html/login_organization.php on line 22
+[17-Jul-2025 02:31:57 UTC] PHP Warning:  Undefined variable $row in /home/zts91xzcemos/public_html/login_organization.php on line 23
+[17-Jul-2025 02:31:57 UTC] PHP Warning:  Trying to access array offset on null in /home/zts91xzcemos/public_html/login_organization.php on line 23
+[17-Jul-2025 02:31:57 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/zts91xzcemos/public_html/organization_dashboard.php on line 341
+[17-Jul-2025 02:38:40 UTC] PHP Warning:  Undefined variable $row in /home/zts91xzcemos/public_html/login_organization.php on line 22
+[17-Jul-2025 02:38:40 UTC] PHP Warning:  Trying to access array offset on null in /home/zts91xzcemos/public_html/login_organization.php on line 22
+[17-Jul-2025 02:38:40 UTC] PHP Warning:  Undefined variable $row in /home/zts91xzcemos/public_html/login_organization.php on line 23
+[17-Jul-2025 02:38:40 UTC] PHP Warning:  Trying to access array offset on null in /home/zts91xzcemos/public_html/login_organization.php on line 23
+[17-Jul-2025 02:38:40 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/zts91xzcemos/public_html/organization_dashboard.php on line 341
+[17-Jul-2025 20:56:36 UTC] Request method: GET
+[17-Jul-2025 20:56:55 UTC] Request method: GET
+[17-Jul-2025 20:57:42 UTC] Request method: GET
+[17-Jul-2025 20:57:46 UTC] Request method: GET
+[17-Jul-2025 20:57:58 UTC] Request method: GET
+[17-Jul-2025 21:02:08 UTC] Request method: GET
+[17-Jul-2025 21:02:09 UTC] Request method: GET
+[17-Jul-2025 21:02:13 UTC] Request method: POST
+[17-Jul-2025 21:02:13 UTC] POST data received: Array
+(
+    [email] => Tester@gmail.com
+    [password] => test
+)
+
+[17-Jul-2025 21:02:13 UTC] Attempting login for email: Tester@gmail.com
+[17-Jul-2025 21:02:13 UTC] Stored password hash: test
+[17-Jul-2025 21:02:13 UTC] PHP Warning:  Undefined array key "id" in /home/zts91xzcemos/public_html/signin_volunteer.php on line 29
+[17-Jul-2025 21:02:13 UTC] Login successful, redirecting to volunteer_hours.php
+[17-Jul-2025 21:02:13 UTC] Request method: GET
+[17-Jul-2025 21:02:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'Tester@gmail.com' for key 'PRIMARY' in /home/zts91xzcemos/public_html/volunteersubmit.php:43
+Stack trace:
+#0 /home/zts91xzcemos/public_html/volunteersubmit.php(43): mysqli_query()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/volunteersubmit.php on line 43
+[17-Jul-2025 21:03:07 UTC] Request method: GET
+[17-Jul-2025 21:03:18 UTC] Request method: POST
+[17-Jul-2025 21:03:18 UTC] POST data received: Array
+(
+    [email] => Teste2r@gmail.com
+    [password] => test
+)
+
+[17-Jul-2025 21:03:18 UTC] Attempting login for email: Teste2r@gmail.com
+[17-Jul-2025 21:03:18 UTC] Stored password hash: test
+[17-Jul-2025 21:03:18 UTC] PHP Warning:  Undefined array key "id" in /home/zts91xzcemos/public_html/signin_volunteer.php on line 29
+[17-Jul-2025 21:03:18 UTC] Login successful, redirecting to volunteer_hours.php
+[17-Jul-2025 21:03:19 UTC] Request method: GET
+[17-Jul-2025 21:06:49 UTC] Request method: POST
+[17-Jul-2025 21:06:49 UTC] POST data received: Array
+(
+    [email] => Teste2r@gmail.com
+    [password] => test
+)
+
+[17-Jul-2025 21:06:49 UTC] Attempting login for email: Teste2r@gmail.com
+[17-Jul-2025 21:06:49 UTC] Stored password hash: test
+[17-Jul-2025 21:06:49 UTC] PHP Warning:  Undefined array key "id" in /home/zts91xzcemos/public_html/signin_volunteer.php on line 31
+[17-Jul-2025 21:06:49 UTC] Login successful, redirecting to volunteer_hours.php
+[17-Jul-2025 21:06:49 UTC] Request method: GET
+[17-Jul-2025 21:15:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'rejuvenateganga.event_registered' doesn't exist in /home/zts91xzcemos/public_html/volunteerlogin.php:86
+Stack trace:
+#0 /home/zts91xzcemos/public_html/volunteerlogin.php(86): mysqli->prepare()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/volunteerlogin.php on line 86
+[17-Jul-2025 21:20:10 UTC] PHP Warning:  Undefined variable $row in /home/zts91xzcemos/public_html/login_organization.php on line 22
+[17-Jul-2025 21:20:10 UTC] PHP Warning:  Trying to access array offset on null in /home/zts91xzcemos/public_html/login_organization.php on line 22
+[17-Jul-2025 21:20:10 UTC] PHP Warning:  Undefined variable $row in /home/zts91xzcemos/public_html/login_organization.php on line 23
+[17-Jul-2025 21:20:10 UTC] PHP Warning:  Trying to access array offset on null in /home/zts91xzcemos/public_html/login_organization.php on line 23
+[17-Jul-2025 21:20:10 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/zts91xzcemos/public_html/organization_dashboard.php on line 341
+[17-Jul-2025 21:42:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'organization_id' in 'SELECT' in /home/zts91xzcemos/public_html/add_event.php:9
+Stack trace:
+#0 /home/zts91xzcemos/public_html/add_event.php(9): mysqli->prepare()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/add_event.php on line 9
+[17-Jul-2025 21:43:15 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/zts91xzcemos/public_html/organization_dashboard.php on line 341
+[17-Jul-2025 21:43:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'organization_id' in 'SELECT' in /home/zts91xzcemos/public_html/add_event.php:9
+Stack trace:
+#0 /home/zts91xzcemos/public_html/add_event.php(9): mysqli->prepare()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/add_event.php on line 9
+[17-Jul-2025 21:48:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'organization_id' in 'SELECT' in /home/zts91xzcemos/public_html/add_event.php:9
+Stack trace:
+#0 /home/zts91xzcemos/public_html/add_event.php(9): mysqli->prepare()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/add_event.php on line 9
+[17-Jul-2025 21:48:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'organization_id' in 'SELECT' in /home/zts91xzcemos/public_html/add_event.php:9
+Stack trace:
+#0 /home/zts91xzcemos/public_html/add_event.php(9): mysqli->prepare()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/add_event.php on line 9
+[17-Jul-2025 21:48:38 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/zts91xzcemos/public_html/organization_dashboard.php on line 341
+[17-Jul-2025 21:48:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'organization_id' in 'SELECT' in /home/zts91xzcemos/public_html/add_event.php:9
+Stack trace:
+#0 /home/zts91xzcemos/public_html/add_event.php(9): mysqli->prepare()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/add_event.php on line 9
+[17-Jul-2025 21:48:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'organization_id' in 'SELECT' in /home/zts91xzcemos/public_html/add_event.php:9
+Stack trace:
+#0 /home/zts91xzcemos/public_html/add_event.php(9): mysqli->prepare()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/add_event.php on line 9
+[17-Jul-2025 21:49:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'organization_id' in 'SELECT' in /home/zts91xzcemos/public_html/add_event.php:11
+Stack trace:
+#0 /home/zts91xzcemos/public_html/add_event.php(11): mysqli->prepare()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/add_event.php on line 11
+[19-Jul-2025 19:06:59 UTC] PHP Warning:  Undefined variable $row in /home/zts91xzcemos/public_html/login_organization.php on line 22
+[19-Jul-2025 19:06:59 UTC] PHP Warning:  Trying to access array offset on null in /home/zts91xzcemos/public_html/login_organization.php on line 22
+[19-Jul-2025 19:06:59 UTC] PHP Warning:  Undefined variable $row in /home/zts91xzcemos/public_html/login_organization.php on line 23
+[19-Jul-2025 19:06:59 UTC] PHP Warning:  Trying to access array offset on null in /home/zts91xzcemos/public_html/login_organization.php on line 23
+[19-Jul-2025 19:06:59 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/zts91xzcemos/public_html/organization_dashboard.php on line 341
+[19-Jul-2025 19:13:26 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/zts91xzcemos/public_html/organization_dashboard.php on line 341
+[19-Jul-2025 19:13:29 UTC] PHP Warning:  Undefined variable $row in /home/zts91xzcemos/public_html/login_organization.php on line 22
+[19-Jul-2025 19:13:29 UTC] PHP Warning:  Trying to access array offset on null in /home/zts91xzcemos/public_html/login_organization.php on line 22
+[19-Jul-2025 19:13:29 UTC] PHP Warning:  Undefined variable $row in /home/zts91xzcemos/public_html/login_organization.php on line 23
+[19-Jul-2025 19:13:29 UTC] PHP Warning:  Trying to access array offset on null in /home/zts91xzcemos/public_html/login_organization.php on line 23
+[19-Jul-2025 19:13:30 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/zts91xzcemos/public_html/organization_dashboard.php on line 341
+[19-Jul-2025 19:17:50 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/zts91xzcemos/public_html/organization_dashboard.php on line 341
+[19-Jul-2025 19:28:43 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/zts91xzcemos/public_html/organization_dashboard.php on line 341
+[19-Jul-2025 19:28:44 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/zts91xzcemos/public_html/organization_dashboard.php on line 341
+[19-Jul-2025 19:29:00 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/zts91xzcemos/public_html/organization_dashboard.php on line 341
+[19-Jul-2025 19:38:36 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/zts91xzcemos/public_html/organization_dashboard.php on line 341
+[19-Jul-2025 19:38:52 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/zts91xzcemos/public_html/organization_dashboard.php on line 341
+[19-Jul-2025 19:58:54 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/zts91xzcemos/public_html/organization_dashboard.php on line 341
+[19-Jul-2025 19:59:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/zts91xzcemos/public_html/organization_dashboard.php on line 341
+[19-Jul-2025 20:05:50 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/zts91xzcemos/public_html/organization_dashboard.php on line 363
+[19-Jul-2025 20:07:24 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/zts91xzcemos/public_html/organization_dashboard.php on line 387
+[19-Jul-2025 20:27:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'rejuvenateganga.organizations' doesn't exist in /home/zts91xzcemos/public_html/organization_dashboard.php:19
+Stack trace:
+#0 /home/zts91xzcemos/public_html/organization_dashboard.php(19): mysqli->prepare()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/organization_dashboard.php on line 19
+[20-Jul-2025 00:06:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'work_performed' in 'SELECT' in /home/zts91xzcemos/public_html/reportvolunteer.php:22
+Stack trace:
+#0 /home/zts91xzcemos/public_html/reportvolunteer.php(22): mysqli->prepare()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/reportvolunteer.php on line 22
+[20-Jul-2025 03:10:22 UTC] PHP Warning:  Undefined variable $row in /home/zts91xzcemos/public_html/login_organization.php on line 22
+[20-Jul-2025 03:10:22 UTC] PHP Warning:  Trying to access array offset on null in /home/zts91xzcemos/public_html/login_organization.php on line 22
+[20-Jul-2025 03:10:22 UTC] PHP Warning:  Undefined variable $row in /home/zts91xzcemos/public_html/login_organization.php on line 23
+[20-Jul-2025 03:10:22 UTC] PHP Warning:  Trying to access array offset on null in /home/zts91xzcemos/public_html/login_organization.php on line 23
+[20-Jul-2025 03:12:14 UTC] PHP Warning:  Undefined variable $row in /home/zts91xzcemos/public_html/login_organization.php on line 22
+[20-Jul-2025 03:12:14 UTC] PHP Warning:  Trying to access array offset on null in /home/zts91xzcemos/public_html/login_organization.php on line 22
+[20-Jul-2025 03:12:14 UTC] PHP Warning:  Undefined variable $row in /home/zts91xzcemos/public_html/login_organization.php on line 23
+[20-Jul-2025 03:12:14 UTC] PHP Warning:  Trying to access array offset on null in /home/zts91xzcemos/public_html/login_organization.php on line 23
+[20-Jul-2025 03:13:12 UTC] PHP Warning:  Undefined variable $row in /home/zts91xzcemos/public_html/login_organization.php on line 22
+[20-Jul-2025 03:13:12 UTC] PHP Warning:  Trying to access array offset on null in /home/zts91xzcemos/public_html/login_organization.php on line 22
+[20-Jul-2025 03:13:12 UTC] PHP Warning:  Undefined variable $row in /home/zts91xzcemos/public_html/login_organization.php on line 23
+[20-Jul-2025 03:13:12 UTC] PHP Warning:  Trying to access array offset on null in /home/zts91xzcemos/public_html/login_organization.php on line 23
+[20-Jul-2025 04:42:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'work_performed' in 'SELECT' in /home/zts91xzcemos/public_html/reportvolunteer.php:22
+Stack trace:
+#0 /home/zts91xzcemos/public_html/reportvolunteer.php(22): mysqli->prepare()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/reportvolunteer.php on line 22
+[20-Jul-2025 04:43:51 UTC] PHP Warning:  Undefined variable $row in /home/zts91xzcemos/public_html/login_organization.php on line 22
+[20-Jul-2025 04:43:51 UTC] PHP Warning:  Trying to access array offset on null in /home/zts91xzcemos/public_html/login_organization.php on line 22
+[20-Jul-2025 04:43:51 UTC] PHP Warning:  Undefined variable $row in /home/zts91xzcemos/public_html/login_organization.php on line 23
+[20-Jul-2025 04:43:51 UTC] PHP Warning:  Trying to access array offset on null in /home/zts91xzcemos/public_html/login_organization.php on line 23
+[20-Jul-2025 04:44:00 UTC] PHP Warning:  Undefined variable $row in /home/zts91xzcemos/public_html/login_organization.php on line 22
+[20-Jul-2025 04:44:00 UTC] PHP Warning:  Trying to access array offset on null in /home/zts91xzcemos/public_html/login_organization.php on line 22
+[20-Jul-2025 04:44:00 UTC] PHP Warning:  Undefined variable $row in /home/zts91xzcemos/public_html/login_organization.php on line 23
+[20-Jul-2025 04:44:00 UTC] PHP Warning:  Trying to access array offset on null in /home/zts91xzcemos/public_html/login_organization.php on line 23
+[20-Jul-2025 04:45:58 UTC] PHP Warning:  Undefined variable $row in /home/zts91xzcemos/public_html/login_organization.php on line 22
+[20-Jul-2025 04:45:58 UTC] PHP Warning:  Trying to access array offset on null in /home/zts91xzcemos/public_html/login_organization.php on line 22
+[20-Jul-2025 04:45:58 UTC] PHP Warning:  Undefined variable $row in /home/zts91xzcemos/public_html/login_organization.php on line 23
+[20-Jul-2025 04:45:58 UTC] PHP Warning:  Trying to access array offset on null in /home/zts91xzcemos/public_html/login_organization.php on line 23
+[20-Jul-2025 04:53:35 UTC] PHP Warning:  Undefined variable $row in /home/zts91xzcemos/public_html/login_organization.php on line 22
+[20-Jul-2025 04:53:35 UTC] PHP Warning:  Trying to access array offset on null in /home/zts91xzcemos/public_html/login_organization.php on line 22
+[20-Jul-2025 04:53:35 UTC] PHP Warning:  Undefined variable $row in /home/zts91xzcemos/public_html/login_organization.php on line 23
+[20-Jul-2025 04:53:35 UTC] PHP Warning:  Trying to access array offset on null in /home/zts91xzcemos/public_html/login_organization.php on line 23
+[21-Jul-2025 03:34:32 UTC] PHP Warning:  Undefined array key "firstname" in /home/zts91xzcemos/public_html/submit_form.php on line 22
+[21-Jul-2025 03:34:32 UTC] PHP Warning:  Undefined array key "lastname" in /home/zts91xzcemos/public_html/submit_form.php on line 23
+[21-Jul-2025 03:34:32 UTC] PHP Warning:  Undefined array key "recoverytext" in /home/zts91xzcemos/public_html/submit_form.php on line 24
+[21-Jul-2025 03:34:32 UTC] PHP Warning:  Undefined array key "email" in /home/zts91xzcemos/public_html/submit_form.php on line 25
+[21-Jul-2025 03:34:32 UTC] PHP Warning:  Undefined array key "city" in /home/zts91xzcemos/public_html/submit_form.php on line 26
+[21-Jul-2025 03:34:32 UTC] PHP Warning:  Undefined array key "state" in /home/zts91xzcemos/public_html/submit_form.php on line 27
+[21-Jul-2025 03:34:32 UTC] PHP Warning:  Undefined array key "country" in /home/zts91xzcemos/public_html/submit_form.php on line 28
+[21-Jul-2025 03:34:32 UTC] PHP Warning:  Undefined array key "password" in /home/zts91xzcemos/public_html/submit_form.php on line 29
+[21-Jul-2025 03:46:37 UTC] PHP Warning:  Undefined array key "firstname" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 26
+[21-Jul-2025 03:46:37 UTC] PHP Warning:  Undefined array key "lastname" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 27
+[21-Jul-2025 03:46:37 UTC] PHP Warning:  Undefined array key "email" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 28
+[21-Jul-2025 03:46:37 UTC] PHP Warning:  Undefined array key "password" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 29
+[21-Jul-2025 03:46:37 UTC] PHP Warning:  Undefined array key "recoverytext" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 30
+[21-Jul-2025 03:46:37 UTC] PHP Warning:  Undefined array key "city" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 31
+[21-Jul-2025 03:46:37 UTC] PHP Warning:  Undefined array key "state" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 32
+[21-Jul-2025 03:46:37 UTC] PHP Warning:  Undefined array key "country" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 33
+[21-Jul-2025 03:46:37 UTC] PHP Warning:  Undefined array key "dob" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 34
+[21-Jul-2025 03:46:37 UTC] PHP Warning:  Undefined array key "organization" in /home/zts91xzcemos/public_html/volunteersubmit.php on line 35
+[21-Jul-2025 03:46:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '' for key 'PRIMARY' in /home/zts91xzcemos/public_html/volunteersubmit.php:43
+Stack trace:
+#0 /home/zts91xzcemos/public_html/volunteersubmit.php(43): mysqli_query()
+#1 {main}
+  thrown in /home/zts91xzcemos/public_html/volunteersubmit.php on line 43
