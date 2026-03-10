@@ -8,19 +8,46 @@
 </head>
 
 
+
 <body class="main">
-   <nav class="navbar">
-       <ul>
-         <li><a href="htmlfolder/contact.html">Contact Us</a></li>
-         <li><a href="htmlfolder/aboutme.html">About Us</a></li>
-         <li><a href="htmlfolder/supportus.html">Support Us</a></li>
-         <li><a href="htmlfolder/relatedlinks.html">Related Links</a></li>
-         <li><a href="htmlfolder/ourmission.html">Our Mission</a></li>
-         <li><a href="htmlfolder/aboutus.html">About Ganges</a></li>
-         <li><a href="index.html">Home</a></li>
-       </ul>
-   </nav>
-   <script src="javascriptfolder/index.js"></script>
+    <!-- Alert Modal -->
+    <div id="alertModal" style="display: flex;position:fixed; z-index:1000; left:0; top:0px; width:100vw; height:100vh; background:rgba(0,0,0,0.4); justify-content:center; align-items:center;">
+       <div style=" background-color:white;padding:2rem; border-radius:8px; margin: 10px; box-shadow:0 2px 10px rgba(0,0,0,0.2); position:fixed; top: 100px;">
+          <button id="closeAlertModal" style="position:absolute; top:18px; right:10px; background:none; border:none; font-size:5rem; line-height: 0px; cursor:pointer;">&times;</button>
+          <!-- You can add alert content here -->
+           <a href="https://www.google.com/url?q=https://us05web.zoom.us/j/87980218775?pwd%3DEH61JQ7BJlpdw2pebSZ1eJrJlAwkvM.1&sa=D&source=calendar&usd=2&usg=AOvVaw094tUdvEE59kYCNzc69a4q"><img src="imagesfolder/flyer-info.png" style="width: 400px" alt="event flyer"></a>
+
+
+       </div>
+    </div>
+    <nav class="navbar">
+          <ul>
+             <li><a href="htmlfolder/contact.html">Contact Us</a></li>
+             <li><a href="htmlfolder/aboutme.html">About Us</a></li>
+             <li><a href="htmlfolder/supportus.html">Support Us</a></li>
+             <li><a href="htmlfolder/relatedlinks.html">Related Links</a></li>
+             <li><a href="htmlfolder/ourmission.html">Our Mission</a></li>
+             <li><a href="htmlfolder/aboutus.html">About Ganges</a></li>
+             <li><a href="index.html">Home</a></li>
+          </ul>
+    </nav>
+    <script>
+       // Show modal only if not dismissed before
+       window.addEventListener('DOMContentLoaded', function() {
+          if (!localStorage.getItem('alertModalDismissed') || localStorage.getItem('alertModalDismissed') == 'false') {
+             document.getElementById('alertModal').style.display = 'flex';
+          }
+          document.getElementById('closeAlertModal').onclick = function() {
+             document.getElementById('alertModal').style.display = 'none';
+             localStorage.setItem('alertModalDismissed', 'true');
+          };
+          document.getElementById('open-alert').onclick = function() {
+             document.getElementById('alertModal').style.display = 'flex';
+             localStorage.setItem('alertModalDismissed', 'false');
+          };
+       });
+    </script>
+    <script src="javascriptfolder/index.js"></script>
 </body>
 
 
@@ -33,6 +60,9 @@
    <h3 class="intro">
    Preserve River Ganga
    </h3>
+   <div style="text-align: right; width: 100%; padding-right:50px;">
+      <button class="info-meeting-btn" id="open-alert">Attend Our Info Meeting</button>
+   </div>
 </body>
 <html lang="en">
 <head>

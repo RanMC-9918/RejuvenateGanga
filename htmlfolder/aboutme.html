@@ -1,265 +1,319 @@
 <!DOCTYPE html>
 <html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>About Me - Rejuvenate Ganga</title>
+    <link rel="stylesheet" href="../cssfolder/styles.css" />
+    <style>
+      .about-me {
+        background-image: url("../images/dolphin-images4.avif");
+        /* Always include fallback properties */
+        background-repeat: no-repeat;
+        background-position: center;
+        background-attachment: fixed;
+        background-size: cover;
+        margin: auto;
+        padding: clamp(2rem, 5vh, 6rem) 1rem clamp(4rem, 15vh, 30rem);
+        display: flex;
+        color: black;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        min-height: clamp(180vh, 220vh, 250vh); /* Increased container height */
+      }
 
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>About Me - Rejuvenate Ganga</title>
-  <link rel="stylesheet" href="../cssfolder/styles.css" />
-  <style>
+      /* Content Containers */
+      .aboutme-text,
+      .initiatives {
+        background-color: #ffffff; /* White background */
+        border: 1px solid #eeeeee; /* Subtle border */
+        box-shadow: 0 2px 15px rgba(0, 0, 0, 0.08); /* Soft shadow */
+      }
 
-.about-me {
-  background-image: url("../images/dolphin-images4.avif");
-  /* Always include fallback properties */
-  background-repeat: no-repeat;
-  background-position: center;
-  background-attachment: fixed;
-  background-size: cover;
-  margin: auto;
-  padding: clamp(2rem, 5vh, 6rem) 1rem clamp(4rem, 15vh, 30rem);
-  display: flex;
-  color: black;
-  flex-direction: column;
-  align-items: center;
-  text-align: center;
-  min-height: clamp(180vh, 220vh, 250vh); /* Increased container height */
-}
+      .centerContent {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        align-items: center;
+      }
 
-/* Content Containers */
-.aboutme-text,
-.initiatives {
-  background-color: #ffffff; /* White background */
-  border: 1px solid #eeeeee; /* Subtle border */
-  box-shadow: 0 2px 15px rgba(0, 0, 0, 0.08); /* Soft shadow */
-}
+      /* About Me Text */
+      .aboutme-text {
+        font-size: clamp(1rem, 2.5vw, 1.5rem);
+        line-height: 1.7; /* Improved readability */
+        max-width: 900px;
+        color: #333333; /* Dark gray for contrast */
+        margin: 2rem auto;
+        padding: 2.5rem;
+        border-radius: 15px;
+      }
 
-/* About Me Text */
-.aboutme-text {
-  font-size: clamp(1rem, 2.5vw, 1.5rem);
-  line-height: 1.7; /* Improved readability */
-  max-width: 900px;
-  color: #333333; /* Dark gray for contrast */
-  margin: 2rem auto;
-  padding: 2.5rem;
-  border-radius: 15px;
-}
+      /* Mission List */
+      .initiatives {
+        list-style: decimal;
+        max-width: 800px;
+        margin: 2rem auto;
+        padding: 2rem;
+        text-align: left;
+        line-height: 1.6;
+        border-radius: 12px;
+      }
 
-/* Mission List */
-.initiatives {
-  list-style: decimal;
-  max-width: 800px;
-  margin: 2rem auto;
-  padding: 2rem;
-  text-align: left;
-  line-height: 1.6;
-  border-radius: 12px;
-}
+      /* make .about-us auto‐expand, with a sensible default */
+      .about-us {
+        /* baseline height for large desktops */
+        min-height: 2200px;
+      }
 
-/* make .about-us auto‐expand, with a sensible default */
-.about-us {
-  /* baseline height for large desktops */
-  min-height: 2200px;
-}
+      /* mid‑sized desktops/tablets get a bit more vertical room */
+      @media screen and (max-width: 1200px) {
+        .about-us {
+          min-height: 2500px;
+        }
+      }
 
-/* mid‑sized desktops/tablets get a bit more vertical room */
-@media screen and (max-width: 1200px) {
-  .about-us {
-    min-height: 2500px;
-  }
-}
+      /* smaller tablets / large phones */
+      @media screen and (max-width: 768px) {
+        .about-us {
+          min-height: 3000px;
+        }
+      }
 
-/* smaller tablets / large phones */
-@media screen and (max-width: 768px) {
-  .about-us {
-    min-height: 3000px;
-  }
-}
+      /* narrow phones need the most vertical space */
+      @media screen and (max-width: 480px) {
+        .about-us {
+          min-height: 3500px;
+        }
+      }
 
-/* narrow phones need the most vertical space */
-@media screen and (max-width: 480px) {
-  .about-us {
-    min-height: 3500px;
-  }
-}
+      /* Headings */
+      .about-us h2 {
+        color: #222222;
+        font-size: clamp(2.5rem, 5vw, 4rem); /* Larger size range */
+        margin: 4rem auto; /* Vertical spacing */
+        padding: 1.5rem 3rem; /* Horizontal padding */
+        line-height: 1.3; /* Better for large text */
+        letter-spacing: -0.5px; /* Improves readability */
+        max-width: 90ch; /* Optimal line length */
+        text-transform: uppercase;
+        border-bottom: 3px solid #f4d03f; /* Accent underline */
+        position: relative;
+        display: inline-block;
+        transition: all 0.3s ease;
+      }
 
-/* Headings */
-.about-us h2 {
-  color: #222222;
-  font-size: clamp(2.5rem, 5vw, 4rem); /* Larger size range */
-  margin: 4rem auto; /* Vertical spacing */
-  padding: 1.5rem 3rem; /* Horizontal padding */
-  line-height: 1.3; /* Better for large text */
-  letter-spacing: -0.5px; /* Improves readability */
-  max-width: 90ch; /* Optimal line length */
-  text-transform: uppercase;
-  border-bottom: 3px solid #f4d03f; /* Accent underline */
-  position: relative;
-  display: inline-block;
-  transition: all 0.3s ease;
-}
+      /* Animated underline effect */
+      .about-us h2::after {
+        content: "";
+        position: absolute;
+        bottom: -3px;
+        left: 0;
+        width: 0;
+        height: 3px;
+        background: #2c3e50;
+        transition: width 0.3s ease;
+      }
+      .about-us h2:hover::after {
+        width: 100%;
+      }
 
-/* Animated underline effect */
-.about-us h2::after {
-  content: '';
-  position: absolute;
-  bottom: -3px;
-  left: 0;
-  width: 0;
-  height: 3px;
-  background: #2c3e50;
-  transition: width 0.3s ease;
-}
-.about-us h2:hover::after {
-  width: 100%;
-}
+      /* Responsive Breakpoints */
+      @media screen and (max-width: 1200px) {
+        .about-us h2 {
+          font-size: clamp(2.25rem, 4.5vw, 3.5rem);
+          padding: 1.25rem 2.5rem;
+        }
+      }
+      @media screen and (max-width: 992px) {
+        .about-us h2 {
+          margin: 3.5rem auto;
+          line-height: 1.25;
+          border-width: 2px;
+        }
+      }
+      @media screen and (max-width: 768px) {
+        .about-us h2 {
+          font-size: clamp(2rem, 4vw, 3rem);
+          padding: 1rem 2rem;
+          max-width: 80%;
+          margin: 3rem auto;
+          letter-spacing: -0.3px;
+        }
+      }
+      @media screen and (max-width: 576px) {
+        .about-us h2 {
+          font-size: clamp(1.75rem, 3.5vw, 2.5rem);
+          padding: 0.75rem 1.5rem;
+          border-width: 1.5px;
+          max-width: 95%;
+          margin: 2.5rem auto;
+          line-height: 1.2;
+        }
+      }
+      @media screen and (max-width: 400px) {
+        .about-us h2 {
+          font-size: clamp(1.5rem, 3vw, 2rem);
+          padding: 0.5rem 1rem;
+        }
+      }
 
-/* Responsive Breakpoints */
-@media screen and (max-width: 1200px) {
-  .about-us h2 {
-    font-size: clamp(2.25rem, 4.5vw, 3.5rem);
-    padding: 1.25rem 2.5rem;
-  }
-}
-@media screen and (max-width: 992px) {
-  .about-us h2 {
-    margin: 3.5rem auto;
-    line-height: 1.25;
-    border-width: 2px;
-  }
-}
-@media screen and (max-width: 768px) {
-  .about-us h2 {
-    font-size: clamp(2rem, 4vw, 3rem);
-    padding: 1rem 2rem;
-    max-width: 80%;
-    margin: 3rem auto;
-    letter-spacing: -0.3px;
-  }
-}
-@media screen and (max-width: 576px) {
-  .about-us h2 {
-    font-size: clamp(1.75rem, 3.5vw, 2.5rem);
-    padding: 0.75rem 1.5rem;
-    border-width: 1.5px;
-    max-width: 95%;
-    margin: 2.5rem auto;
-    line-height: 1.2;
-  }
-}
-@media screen and (max-width: 400px) {
-  .about-us h2 {
-    font-size: clamp(1.5rem, 3vw, 2rem);
-    padding: 0.5rem 1rem;
-  }
-}
+      /* .about-me adjustments */
+      @media screen and (max-width: 768px) {
+        .about-me {
+          align-items: center;
+          text-align: center;
+          min-height: 200vh; /* Taller on tablets */
+          padding: 3rem 1rem;
+        }
+        .aboutme-text {
+          padding: 1.5rem;
+          margin: 1.5rem auto;
+        }
+      }
 
-/* .about-me adjustments */
-@media screen and (max-width: 768px) {
-  .about-me {
-      align-items: center;
-  text-align: center;
-    min-height: 200vh; /* Taller on tablets */
-    padding: 3rem 1rem;
-  }
-  .aboutme-text {
-    padding: 1.5rem;
-    margin: 1.5rem auto;
-  }
-}
+      @media screen and (max-width: 480px) {
+        .about-me {
+          right: 50%;
+          align-items: center;
+          text-align: center;
+          min-height: 220vh; /* Taller on phones */
+          padding: 2rem 1rem;
+        }
+        .initiatives {
+          padding-left: 1.5rem !important; /* Slight shift to the right */
+          margin-left: auto !important;
+          margin-right: auto !important;
+        }
+        .aboutme-text,
+        .initiatives,
+        .about-us {
+          width: 100%;
+          align-items: center;
+          text-align: center;
+          max-width: 100%;
+          margin: 1rem auto;
+          padding: 1rem;
+          box-sizing: border-box;
+        }
+        .bottom-image {
+          width: 100%;
+          margin-top: 30vh; /* Existing vertical spacing */
+        }
+        .initiatives {
+          color: black;
+        }
+        .ganga-img {
+          box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        }
+      }
 
-@media screen and (max-width: 480px) {
-  .about-me {
-      right: 50%;
-      align-items: center;
-  text-align: center;
-    min-height: 220vh; /* Taller on phones */
-    padding: 2rem 1rem;
-  }
-   .initiatives {
-    padding-left: 1.5rem !important; /* Slight shift to the right */
-    margin-left: auto !important;
-    margin-right: auto !important;
-  }
-  .aboutme-text,
-  .initiatives,
-  .about-us {
-    width: 100%;
-    align-items: center;
-  text-align: center;
-    max-width: 100%;
-    margin: 1rem auto;
-    padding: 1rem;
-    box-sizing: border-box;
-  }
-  .bottom-image {
-    width: 100%;
-    margin-top: 30vh; /* Existing vertical spacing */
-  }
-  .initiatives {
-    color: black;
-  }
-  .ganga-img {
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-  }
-}
+      @media screen and (min-width: 1920px) {
+        .aboutme-text {
+          max-width: 1000px;
+          padding: 4rem;
+        }
+      }
+    </style>
+  </head>
 
-@media screen and (min-width: 1920px) {
-  .aboutme-text {
-    max-width: 1000px;
-    padding: 4rem;
-  }
-}
-  </style>
-</head>
+  <body class="about-me">
+    <nav class="navbar">
+      <ul>
+        <li><a href="contact.html">Contact Us</a></li>
+        <li><a href="aboutme.html">About Us</a></li>
+        <li><a href="supportus.html">Support Us</a></li>
+        <li><a href="relatedlinks.html">Related Links</a></li>
+        <li><a href="ourmission.html">Our Mission</a></li>
+        <li><a href="aboutus.html">About Ganges</a></li>
+        <li><a href="../index.html">Home</a></li>
+      </ul>
+    </nav>
 
-<body class="about-me">
-  <nav class="navbar">
-    <ul>
-      <li><a href="contact.html">Contact Us</a></li>
-      <li><a href="aboutme.html">About Us</a></li>
-      <li><a href="supportus.html">Support Us</a></li>
-      <li><a href="relatedlinks.html">Related Links</a></li>
-      <li><a href="ourmission.html">Our Mission</a></li>
-      <li><a href="aboutus.html">About Ganges</a></li>
-      <li><a href="../index.html">Home</a></li>
-    </ul>
-  </nav>
+    <div class="centerContent">
+      <section class="about-us">
+        <h2>About Us</h2>
+        <p>
+          <strong>Rejuvenate Ganga</strong> is an NGO dedicated to revitalizing
+          the Ganga River by promoting sustainable cleaning practices and
+          spreading environmental awareness.
+        </p>
 
-  <section class="about-us">
-    <h2>About Me</h2>
-    <p><strong>Rejuvenate Ganga</strong> is an NGO dedicated to revitalizing the Ganga River by promoting sustainable cleaning practices and spreading environmental awareness.</p>
+        <div class="founder">
+          <img
+            src="../images/Aarav Singh.jpg"
+            alt="Founder Picture"
+            class="profile-pic"
+          />
 
-    <div class="founder">
-      <img src="../images/Aarav Singh.jpg" alt="Founder Picture" class="profile-pic" />
+          <div class="aboutme-text">
+            <p><strong>Founder: Aarav Singh</strong></p>
+            <p>
+              In an attempt to giving back to our own mother nature and inspired
+              by my parents who hails from a tranquil and beautiful city in
+              India located right on the bank of river Ganga, I decided on
+              working towards restoration and preservation of river Ganga and
+              its tributaries and launched the “Rejuvenate Ganaga” project.
+            </p>
+            <p>
+              During visits to my family, I have witnessed the profound
+              significance of the Ganga, with hundreds of people gathering along
+              its banks each day. Ganga river basin, which saw the rise of early
+              civilization supports a vast population and diverse range of
+              wildlife and is a source for drinking water, irrigation,
+              livelihood and more across 11 states and serves an estimated 500
+              million people.
+            </p>
+            <p>
+              However, increasing pollution threatens their way of life and
+              endangers the delicate ecosystems sustained by the river. Despite
+              its iconic status and religious heritage, river Ganga today is
+              facing formidable pollution pressures, accompanied by threats to
+              its biodiversity and environmental sustainability.
+            </p>
+            <p>
+              I started my journey of restoration and rejuvenation of river
+              Ganga by exploring and researching about Ganga basin in general,
+              followed by understanding the key challenges and issues affecting
+              the cleanliness and free-flow or river Ganga.
+            </p>
+            <p>
+              As a junior student at Stevenson High School, I founded Rejuvenate
+              Ganga, an initiative dedicated to restoring and preserving the
+              sacred Ganga River. To manage it beyond any boundaries, I have
+              developed an application to bring together the NGOs, Donators and
+              Volunteers on one common digital platform to enable a seamless and
+              collaborative experience towards achieving one common goal to
+              rejuvenate the holy river “The Ganges”. We must take action, join
+              me in my journey to help clean Ganga.
+            </p>
+          </div>
+        </div>
+        <div class="bottom-image">
+          <img src="../images/1.png" alt="Ganga River" class="ganga-img" />
+        </div>
 
-      <div class="aboutme-text">
-        <p><strong>Founder: Aarav Singh</strong></p>
-        <p>In an attempt to giving back to our own mother nature and inspired by my parents who hails from a tranquil and beautiful city in India located right on the bank of river Ganga, I decided on working towards restoration and preservation of river Ganga and its tributaries and launched the “Rejuvenate Ganaga” project.</p>
-        <p>During visits to my family, I have witnessed the profound significance of the Ganga, with hundreds of people gathering along its banks each day. Ganga river basin, which saw the rise of early civilization supports a vast population and diverse range of wildlife and is a source for drinking water, irrigation, livelihood and more across 11 states and serves an estimated 500 million people.</p>
-        <p>However, increasing pollution threatens their way of life and endangers the delicate ecosystems sustained by the river. Despite its iconic status and religious heritage, river Ganga today is facing formidable pollution pressures, accompanied by threats to its biodiversity and environmental sustainability.</p>
-        <p>I started my journey of restoration and rejuvenation of river Ganga by exploring and researching about Ganga basin in general, followed by understanding the key challenges and issues affecting the cleanliness and free-flow or river Ganga.</p>
-        <p>As a sophomore student at Stevenson High School, I founded Rejuvenate Ganga, an initiative dedicated to restoring and preserving the sacred Ganga River. To manage it beyond any boundaries, I have developed an application to bring together the NGOs, Donators and Volunteers on one common digital platform to enable a seamless and collaborative experience towards achieving one common goal to rejuvenate the holy river “The Ganges”. We must take action, join me in my journey to help clean Ganga.</p>
-      </div>
+        <ul class="initiatives">
+          <p>
+            This initiative of mine aims at enabling and enhancing collaboration
+            between key stakeholders (Donators, Not-for-Profit Organizations and
+            Volunteers) to achieve:
+          </p>
+          <li>
+            Enhanced integration and collaboration, reducing gaps between
+            planners & executors
+          </li>
+          <li>Agile planning, forecasting and execution</li>
+          <li>Raising, allocating & tracking funds through various sources</li>
+          <li>Planning & conducting last mile campaigns and roadshows</li>
+          <li>Bringing awareness among the masses</li>
+          <li>Clean-up drives</li>
+          <li>River bank stabilization</li>
+          <li>Tree plantation</li>
+        </ul>
+      </section>
     </div>
-    <div class="bottom-image">
-      <img src="../images/1.png" alt="Ganga River" class="ganga-img" />
-    </div>
 
-    <ul class="initiatives">
-      <p>This initiative of mine aims at enabling and enhancing collaboration between key stakeholders (Donators, Not-for-Profit Organizations and Volunteers) to achieve:</p>
-      <li>Enhanced integration and collaboration, reducing gaps between planners & executors</li>
-      <li>Agile planning, forecasting and execution</li>
-      <li>Raising, allocating & tracking funds through various sources</li>
-      <li>Planning & conducting last mile campaigns and roadshows</li>
-      <li>Bringing awareness among the masses</li>
-      <li>Clean-up drives</li>
-      <li>River bank stabilization</li>
-      <li>Tree plantation</li>
-    </ul>
-
-  </section>
-
-  <script src="../javascriptfolder/index.js"></script>
-</body>
-
+    <script src="../javascriptfolder/index.js"></script>
+  </body>
 </html>
